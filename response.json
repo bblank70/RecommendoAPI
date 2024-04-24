@@ -1,0 +1,10 @@
+{
+    "result": [{"user": "AmazingUser", "business_id":"GAuweBrcC_wK3a0UhZjwfA","name":"Loco Pez","address":"2401 E Norris St","city":"Philadelphia","state":"PA","postal_code":19125,"stars":4.0,"hyperlink":"https://storage.googleapis.com/2024capstone51/photos/S9Xlj9dO-ZBK2k6h6WxMWg.jpg"},
+{"user": "AmazingUser", "business_id":"k2YJkdLg25xlYjshpeEtkQ","name":"Volo Coffeehouse","address":"4360 Main St","city":"Philadelphia","state":"PA","postal_code":19127,"stars":4.5,"hyperlink":"https://storage.googleapis.com/2024capstone51/photos/ZUQg71uQUl0GzP36OZDTsg.jpg"},
+{"user": "AmazingUser", "business_id":"G15tUaO6G0nS41zY8g8Yow","name":"Poke Bros","address":"636 Easton Rd","city":"Warrington","state":"PA","postal_code":18976,"stars":4.5,"hyperlink":"https://storage.googleapis.com/2024capstone51/photos/0AnADz1U2qRUcstg91nrCg.jpg"},
+{"user": "AmazingUser", "business_id":"22C6ueBbwUM7hpLU-sTExw","name":"White Elephant Restaurant","address":"759 Huntingdon Pike","city":"Huntingdon Valley","state":"PA","postal_code":19006,"stars":4.0,"hyperlink":"https://storage.googleapis.com/2024capstone51/photos/HxgWGnrhW6IJk3HCUZ3XPQ.jpg"},
+{"user": "AmazingUser", "business_id":"cG6FvMfbZmD-dDtLUwE2ow","name":"Uno Pizzeria & Grill","address":"801 Neshaminy Mall","city":"Bensalem","state":"PA","postal_code":19020,"stars":3.5,"hyperlink":"https://storage.googleapis.com/2024capstone51/photos/1t_N97dsBzEc_SZgTDuPng.jpg"},
+{"user": "Brian", "business_id":"k2YJkdLg25xlYjshpeEtkQ","name":"Volo Coffeehouse","address":"4360 Main St","city":"Philadelphia","state":"PA","postal_code":19127,"stars":4.5,"hyperlink":"https://storage.googleapis.com/2024capstone51/photos/ZUQg71uQUl0GzP36OZDTsg.jpg"},
+{"user": "Brian", "business_id":"cG6FvMfbZmD-dDtLUwE2ow","name":"Uno Pizzeria & Grill","address":"801 Neshaminy Mall","city":"Bensalem","state":"PA","postal_code":19020,"stars":3.5,"hyperlink":"https://storage.googleapis.com/2024capstone51/photos/1t_N97dsBzEc_SZgTDuPng.jpg"}
+]
+}

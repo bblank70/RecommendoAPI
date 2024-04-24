@@ -1,10 +1,14 @@
-FROM python:3.10.11-slim-buster
+FROM python:3.10.11-alpine
+
 WORKDIR /app
 
-COPY requirements.txt .
+COPY ./requirements.txt /app/
 
 RUN pip install -r requirements.txt
-EXPOSE 5000
-ENV FLASK_APP = app.python
-CMD ["flask", "run" "--host", "0.0.0.0"]
+COPY ./app.py /app/
+COPY ./response.json /app/
+
+
+
+CMD ["flask", "run", "--host", "0.0.0.0"]
 

@@ -27,8 +27,8 @@ app =   Flask(__name__)
 CORS(app)
 
 @app.route('/')
-  def home():
-	return "current endpoints are </> and <returnjson> <h1>Welcome</h1>" 
+def home():
+	return "current endpoints are / and returnjson <h1>Welcome</h1>" 
 
 
 @app.route('/returnjson', methods = ['GET']) 

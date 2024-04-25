@@ -2,6 +2,7 @@
 from flask import Flask,jsonify,request 
 import pandas as pd
 import json
+from flask_cors import CORS
 
 
 with open("response.json", "r") as file:
@@ -9,6 +10,7 @@ with open("response.json", "r") as file:
 data = json.loads(json_data)
 results = data['result']
 r = pd.DataFrame(results)
+print(r.head())
 
 
 def ReturnJsonResultOuterKey(df, user):
@@ -22,6 +24,7 @@ def ReturnJsonResultOuterKey(df, user):
 
 
 app =   Flask(__name__) 
+CORS(app)
   
 @app.route('/returnjson', methods = ['GET']) 
 def ReturnJSON(): 

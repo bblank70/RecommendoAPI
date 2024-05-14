@@ -15,10 +15,10 @@ popular = pd.read_csv("./static/Model_popular.csv")
 new = pd.read_csv( "./static/Model_new.csv")
 colab = pd.read_csv("./static/Model_colab.csv")
 
-print("top of content:", content.head())
-print("top of popular:", popular.head())
-print("top of new:", new.head())
-print("top of colab:", colab.head())
+# print("top of content:", content.head())
+# print("top of popular:", popular.head())
+# print("top of new:", new.head())
+# print("top of colab:", colab.head())
 
 def ReturnJsonResultOuterKey(df, user):
     df = df[df['user'] == user]

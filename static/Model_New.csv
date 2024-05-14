@@ -1,0 +1,673 @@
+,business_id,name,address,city,state,postal_code,stars,hyperlink,Model
+0,koeubKPpi6ax4FDh7_zcWg,Palo De Azucar Cafe,862 S Broad St,Trenton,NJ,8611.0,5.0,https://storage.googleapis.com/2024capstone51/photos/missing.jpg,New Content
+1,KidSvYABnawyuS_3lIYQzQ,Mercy’s Bakery,505 S Broad St,Lansdale,PA,19446.0,4.0,https://storage.googleapis.com/2024capstone51/photos/missing.jpg,New Content
+2,bk3u2UQoo516mPz9e1_vqw,CAVA,"3741 W Chester Pike, Ste 107",Newtown Square,PA,19073.0,5.0,https://storage.googleapis.com/2024capstone51/photos/J949qoloAyKRn0J5zlbByA.jpg,New Content
+3,n6dw_zxL_4cVO6EP_m0joQ,Dragon House,1228 Chestnut St,Philadelphia,PA,19107.0,4.0,https://storage.googleapis.com/2024capstone51/photos/missing.jpg,New Content
+4,AFIkxCPqO7613NHEIL8abQ,Heritage's,501 Beckett Rd,Swedesboro,NJ,8085.0,4.5,https://storage.googleapis.com/2024capstone51/photos/dIvOfADDNnXv2v07CkvTsw.jpg,New Content
+5,agTcS5LYZJe4gNiXK6nNkw,Buca D’Oro ,711 Locust St,Philadelphia,PA,19106.0,4.0,https://storage.googleapis.com/2024capstone51/photos/Yam0gVr2W5RaO290IGLC0Q.jpg,New Content
+6,Yl4Am6NhqWo_YMmo1SyU5A,Domino's Pizza,5754 Baltimore Ave,Philadelphia,PA,19143.0,2.0,https://storage.googleapis.com/2024capstone51/photos/missing.jpg,New Content
+7,ELJcgId3RiCADVIT5QbUTA,Hyon's Seafood,1320 S 21st St,Philadelphia,PA,19146.0,3.5,https://storage.googleapis.com/2024capstone51/photos/missing.jpg,New Content
+8,AtYDSsVOZT8DLWCcTBqZmQ,Hunnies Crispy Chicken,223 S Sydenham St,Philadelphia,PA,19102.0,2.0,https://storage.googleapis.com/2024capstone51/photos/Fe__Au8icCD66aFsQ7coEg.jpg,New Content
+9,xNWueX3uZjmixQUkY38GzQ,KFC,1925 Lancaster Ave,Wilmington,DE,19805.0,3.0,https://storage.googleapis.com/2024capstone51/photos/m1wUhryuQzqS5x1nt22w1g.jpg,New Content
+10,FBEzhE4ABeiZTGGO-BTKeQ,Philly Pretzel Factory,5742 Lower York Rd,New Hope,PA,18938.0,3.0,https://storage.googleapis.com/2024capstone51/photos/missing.jpg,New Content
+11,KE_oM4y1GMI3YMOnnqHqRQ,Subway,180 Levittown Pkwy,Levittown,PA,19056.0,2.0,https://storage.googleapis.com/2024capstone51/photos/missing.jpg,New Content
+12,WwPPNhUpIsPhLumwravwKw,Millstone Cafe,1 Hoffman's Mill Rd,Chadds Ford,PA,19317.0,3.5,https://storage.googleapis.com/2024capstone51/photos/991DDvMril_v0ZbFprfq_w.jpg,New Content
+13,Q4OTSH9DaoeqtYcg6qYtZg,Subway,"4721 Kirkwood Hwy, Unit  5",Wilmington,DE,19808.0,1.0,https://storage.googleapis.com/2024capstone51/photos/missing.jpg,New Content
+14,uYCSHmhjghnhv8iEvRT44Q,Roma Pizza,233 S Broadway,Pennsville,NJ,8070.0,2.5,https://storage.googleapis.com/2024capstone51/photos/missing.jpg,New Content
+15,4r6xzZL0P-Hn_EDN_OWqCA,Mediterranean Foods,400 Long Ln,Upper Darby,PA,19082.0,5.0,https://storage.googleapis.com/2024capstone51/photos/missing.jpg,New Content
+16,zgaaJ6jAhKpWCtQRryJfVQ,Devito's Pizza IV,124 Tremont St,Trenton,NJ,8611.0,4.0,https://storage.googleapis.com/2024capstone51/photos/missing.jpg,New Content
+17,fgCDIVM8-PLgJuhxePt2MQ,Be Well Bakery & Cafe,884 2nd St Pike,Richboro,PA,18954.0,4.5,https://storage.googleapis.com/2024capstone51/photos/missing.jpg,New Content
+18,fnjKM583kumn7z0Z00Rc9g,Little Caesars Pizza,7153 Ogontz Ave,Philadelphia,PA,19138.0,3.0,https://storage.googleapis.com/2024capstone51/photos/missing.jpg,New Content
+19,XT80TPuzEPP7t7x8-M9mxg,Mr Wok,1250 S Broad St,Trenton,NJ,8610.0,2.0,https://storage.googleapis.com/2024capstone51/photos/missing.jpg,New Content
+20,3D2hDzIkashmMJ6BKBoy9A,Cynthia's Soul Grill,1601 Dekalb St,Norristown,PA,19401.0,4.0,https://storage.googleapis.com/2024capstone51/photos/missing.jpg,New Content
+21,YxHtKm78yw9mpyE-OTJ8-Q,Rudy's Tavern,7160 Marshall Rd,Upper Darby,PA,19082.0,3.0,https://storage.googleapis.com/2024capstone51/photos/S9nyU69Pcypbpb5VLFk56g.jpg,New Content
+22,DNA6jRC6wt0QXO4zN-BdXw,New Napoli Famous Pizza,911 Tyson Ave,Philadelphia,PA,19111.0,2.0,https://storage.googleapis.com/2024capstone51/photos/missing.jpg,New Content
+23,fVkyuNElYY3AO4a3SxchCg,Wawa,2 N White Horse Pike,Somerdale,NJ,8083.0,4.0,https://storage.googleapis.com/2024capstone51/photos/missing.jpg,New Content
+24,fCFUlCHG4spZ3O0vbqnYjA,Pat's Pizzeria,2008 W Newport Pike,Wilmington,DE,19804.0,2.0,https://storage.googleapis.com/2024capstone51/photos/missing.jpg,New Content
+25,mhkPodUyu4xQe5QBXXlYdA,Wawa,451 West Ridge Pk,Royersford,PA,19468.0,3.5,https://storage.googleapis.com/2024capstone51/photos/missing.jpg,New Content
+26,UjhAD9kZe7-wUTjD0BGh9w,Wawa,2290 Clement Ave,Pennsauken,NJ,8109.0,2.5,https://storage.googleapis.com/2024capstone51/photos/missing.jpg,New Content
+27,LpIKjMR5ERpyzEN1tbf3fw,H&B New York Deli & More,3905 State Rd,Drexel Hill,PA,19026.0,4.5,https://storage.googleapis.com/2024capstone51/photos/IV9kaTGDAA7NLG40lmoXOQ.jpg,New Content
+28,FbxSLGh4Oe9uYqqhTygJrQ,Richman's Ice Cream,1594 Market St,Linwood,PA,19061.0,3.0,https://storage.googleapis.com/2024capstone51/photos/k5JapQb3r0iBQwFXJtJ3gA.jpg,New Content
+29,7b-4PtkVI_qZ76jp4rz8Bg,Ricky Cafe,2-4 N 32nd St,Philadelphia,PA,19104.0,4.0,https://storage.googleapis.com/2024capstone51/photos/missing.jpg,New Content
+30,Ma1-ObBgnDiC1IHS3xZ-hw,Dairy Queen,55 S Delmorr Ave,Morrisville,PA,19067.0,4.5,https://storage.googleapis.com/2024capstone51/photos/missing.jpg,New Content
+31,x4jqqs-Hr7YXYJEqXVTR8w,Pittsgrove Deli & Grocery,1031 Centerton Rd,Pittsgrove Township,NJ,8318.0,4.0,https://storage.googleapis.com/2024capstone51/photos/missing.jpg,New Content
+32,fGRyOyp06v5DsKM3mvPXNw,ShopRite of Willingboro,400 J F Kennedy Way,Willingboro,NJ,8046.0,1.5,https://storage.googleapis.com/2024capstone51/photos/missing.jpg,New Content
+33,dm9UbH8XPAP6735lHRYILA,Ruby's Roof Jamaican Restaurant,5706 N 5th St,Philadelphia,PA,19120.0,1.0,https://storage.googleapis.com/2024capstone51/photos/missing.jpg,New Content
+34,r0Gz71sm-Wsh4J4kjiaViw,Mom's Seafood,2312 N 29th St,Philadelphia,PA,19132.0,4.0,https://storage.googleapis.com/2024capstone51/photos/missing.jpg,New Content
+35,aVRVBncwdK3GrqLKLFPKAg,Paradise Pizzeria,1363 E Lycoming St,Philadelphia,PA,19124.0,1.0,https://storage.googleapis.com/2024capstone51/photos/missing.jpg,New Content
+36,4w6Z5v0uVt08oSBaA3342A,Wawa,600 Cinnaminson Ave,Palmyra,NJ,8065.0,3.5,https://storage.googleapis.com/2024capstone51/photos/missing.jpg,New Content
+37,wNj6mfivohSUpwP5AjmLoQ,La Esquina del Bronco,2265 N Howard St,Philadelphia,PA,19122.0,3.5,https://storage.googleapis.com/2024capstone51/photos/_UFbTgGTaTnUPh52K4GafQ.jpg,New Content
+38,9UN4wK1uSo77x50A5J1Jbg,J S Breakfast,1154 Haddon Ave,Camden,NJ,8103.0,4.5,https://storage.googleapis.com/2024capstone51/photos/missing.jpg,New Content
+39,nCZR84HJcR1MTjDrJfHkcg,The Munchy Machine,4002 W 9th St,Trainer,PA,19061.0,4.5,https://storage.googleapis.com/2024capstone51/photos/missing.jpg,New Content
+40,z5RwzAP8Xo10FVYdrrSEIg,Jireh Restaurant,687 S Clinton Ave,Trenton,NJ,8611.0,4.0,https://storage.googleapis.com/2024capstone51/photos/missing.jpg,New Content
+41,9L-tpGPeBIPPckZwGSN6ug,Tony's Family Restaurant,623 Schuylkill Rd,Phoenixville,PA,19460.0,4.0,https://storage.googleapis.com/2024capstone51/photos/missing.jpg,New Content
+42,7XC1bvgBkFa425SJf8vIbw,Caffe Napoli,777 Harrahs Blvd,Chester,PA,19013.0,2.5,https://storage.googleapis.com/2024capstone51/photos/missing.jpg,New Content
+43,_30PYsnQuGax9SbSnVL0-A,Mr China,359 Pennington Ave,Trenton,NJ,8618.0,4.0,https://storage.googleapis.com/2024capstone51/photos/missing.jpg,New Content
+44,X3Qa-dXb2DFdZZ2UnAfSVg,Dunkin',"1619 Grant Ave, Ste 5",Philadelphia,PA,19115.0,1.0,https://storage.googleapis.com/2024capstone51/photos/dnc3GTEg_SDnd1fwn8AUKg.jpg,New Content
+45,dXQrVqsVNhQLxGL01zVQ8w,Wendy's,700 East Gay Street,W.Chester,PA,19380.0,3.0,https://storage.googleapis.com/2024capstone51/photos/missing.jpg,New Content
+46,cLNyFQ3T7p_Kcf09IburKw,Dunkin',6620 N Broad St,Philadelphia,PA,19126.0,1.5,https://storage.googleapis.com/2024capstone51/photos/iLUTEDcNad8qlujIY9i_1Q.jpg,New Content
+47,wUiJDkB_YUZEgTQshpUZZg,Xin Xing House,6057 Castor Ave,Philadelphia,PA,19149.0,4.0,https://storage.googleapis.com/2024capstone51/photos/missing.jpg,New Content
+48,WSrHn_qHCOHqF5BfOmTr1g,State of New Jersey Motor Vehicle Comission,"199 E Broadway, Fl 1",Salem,NJ,8079.0,2.5,https://storage.googleapis.com/2024capstone51/photos/missing.jpg,New Content
+49,W0ssKXv6a1uMEwgXVR0sOg,Philly Pretzel Factory,200 N Black Horse Pike,Williamstown,NJ,8094.0,2.0,https://storage.googleapis.com/2024capstone51/photos/missing.jpg,New Content
+50,2s1e-4t_35JfQBXAluqqzg,McDonald's,72 S Clinton Ave,Trenton,NJ,8609.0,1.0,https://storage.googleapis.com/2024capstone51/photos/missing.jpg,New Content
+51,1EPIMv80uW932NQR7wSpsw,National Park Pub,610 Hessian Ave,National Park,NJ,8063.0,3.0,https://storage.googleapis.com/2024capstone51/photos/mh-GA74SEZ5xNTZM8rw3PA.jpg,New Content
+52,nVZodgIcBiPxIYmyZpu38A,Crown Chicken & Grill,2201 Edgmont Ave,Chester,PA,19013.0,4.0,https://storage.googleapis.com/2024capstone51/photos/missing.jpg,New Content
+53,Y9GZffGOGg5EBtErDaDHgw,Hunan Wok,1400 Berlin Rd,Cherry Hill,NJ,8003.0,4.0,https://storage.googleapis.com/2024capstone51/photos/missing.jpg,New Content
+54,YiuvwMY1Ay5H1_cURsD6_Q,Italy to go,1810 Wilmington Pike,Glen Mills,PA,19342.0,4.5,https://storage.googleapis.com/2024capstone51/photos/missing.jpg,New Content
+55,qaTohPleCsOlYOYSfIOsrw,Philly Pretzel Factory,696 High St,Burlington,NJ,8016.0,3.5,https://storage.googleapis.com/2024capstone51/photos/XmmaG8M8Gt8ZONTbevEC-Q.jpg,New Content
+56,oEANneKo_n19RbAK2yRBrg,McCalley's Tavern,850 Kings Hwy,West Deptford,NJ,8096.0,4.5,https://storage.googleapis.com/2024capstone51/photos/gaLDaJyszWL5bhmDFPwWwQ.jpg,New Content
+57,NwwIQ6CThuQfVWtCGuP68A,Tommy's,1118 Taylorsville Rd,Washington Crossing,PA,18977.0,4.5,https://storage.googleapis.com/2024capstone51/photos/IRZh3IyYUMmWA8mwX-G1aQ.jpg,New Content
+58,ybgLYF_SpBTmlWqa3S3lcw,Subway,330 Upland Square Dr,Pottstown,PA,19464.0,3.5,https://storage.googleapis.com/2024capstone51/photos/missing.jpg,New Content
+59,pYiRiBB6ZsNLQYQNAscTdA,Jethro's Country Kitchen,18 W Lightcap Rd,Pottstown,PA,19464.0,3.5,https://storage.googleapis.com/2024capstone51/photos/Dd8LASeVGOIflMVpe5xldA.jpg,New Content
+60,LrZ5-YoLk-n6OsmE7NUskQ,Wawa,2999 East Evesham Rd,Voorhees,NJ,8043.0,3.0,https://storage.googleapis.com/2024capstone51/photos/missing.jpg,New Content
+61,mtXTk0-IRTS8d0w16ihRPw,Dunkin',4639 Ogletown Stanton Rd,Newark,DE,19702.0,2.0,https://storage.googleapis.com/2024capstone51/photos/-IMdSxtWgx5qBoyhb2LeMQ.jpg,New Content
+62,nJEw8L-PhR_2kX0ui7JPZA,Domino's Pizza,79 Baltimore Pike,Avondale,PA,19311.0,3.0,https://storage.googleapis.com/2024capstone51/photos/missing.jpg,New Content
+63,tqY2t5a5E6YQKfW4jL8Vfg,Wingstop,6391 Oxford Ave,Philadelphia,PA,19111.0,3.0,https://storage.googleapis.com/2024capstone51/photos/DJND0WNg8dMA7LAC8epTJA.jpg,New Content
+64,iuoh6R7yIvKxffYsb5fH_A,Crown Chicken & Burger,1408 South St,Philadelphia,PA,19146.0,1.5,https://storage.googleapis.com/2024capstone51/photos/missing.jpg,New Content
+65,uWyy81dLJoK0WuxPw2_REA,Fruit Salad Cart,20 S 17th St,Philadelphia,PA,19103.0,4.0,https://storage.googleapis.com/2024capstone51/photos/missing.jpg,New Content
+66,M99ZH5s10gditCQZCJfCMQ,McDonald's,301 Brunswick Cir,Lawrence Township,NJ,8648.0,2.5,https://storage.googleapis.com/2024capstone51/photos/missing.jpg,New Content
+67,KZ89bxkehTqrmn63wUp8DQ,Lil Dom's Pizzeria,1776 S Easton Rd,Doylestown,PA,18901.0,4.5,https://storage.googleapis.com/2024capstone51/photos/missing.jpg,New Content
+68,-eJJKj0ClOvumIYksYSdcQ,Puff Daddy's Sandwich Shop,Mill Rd,Wilmington,DE,19804.0,4.0,https://storage.googleapis.com/2024capstone51/photos/BCL7FXvaYmKgMV9YchwHMQ.jpg,New Content
+69,_VQbAFHvYi50fJbfxlY6Yw,Cucina Italiana,2955 Market St,Philadelphia,PA,19104.0,2.5,https://storage.googleapis.com/2024capstone51/photos/missing.jpg,New Content
+70,CAmNxn6wBszgUH5_EQEJug,Street Food Sandwich Shop,7 S York Rd,Hatboro,PA,19040.0,5.0,https://storage.googleapis.com/2024capstone51/photos/missing.jpg,New Content
+71,jfv6PEdL5KchI-DGJlnbWQ,Dunkin',301 N. Maryland Ave,Wilmington,DE,19804.0,2.0,https://storage.googleapis.com/2024capstone51/photos/oC7DXdeKenPaH_wgPSc53Q.jpg,New Content
+72,_KqbkPAOI0s2ss0m-ucF5A,Mongkoltepmunee Buddhist Temple,3304 Knights Rd,Bensalem,PA,19020.0,5.0,https://storage.googleapis.com/2024capstone51/photos/missing.jpg,New Content
+73,KBetoimeYM9pN4KFWvL1KA,Keep It Shrimple,1661 Blackwood Clementon Rd,Blackwood,NJ,8012.0,3.0,https://storage.googleapis.com/2024capstone51/photos/missing.jpg,New Content
+74,_p84ZoOHP6UUqBU9RvO1bw,Haggerty's Cafe,2373 MacDade Blvd,Holmes,PA,19043.0,3.0,https://storage.googleapis.com/2024capstone51/photos/missing.jpg,New Content
+75,uAlZsR2u3sArs6vuuHl0mQ,Augusta Grille,1612 N Dupont Hwy,New Castle,DE,19720.0,3.5,https://storage.googleapis.com/2024capstone51/photos/missing.jpg,New Content
+76,w9V9NyUMPYCtEmnwICf0QQ,John's Corner Deli,3231 Concord Rd,Aston,PA,19014.0,4.5,https://storage.googleapis.com/2024capstone51/photos/missing.jpg,New Content
+77,xd2QyNuEA6gt6Yqn_Yt5iA,Bud's Cafe,31 W Winona Ave,Norwood,PA,19074.0,5.0,https://storage.googleapis.com/2024capstone51/photos/missing.jpg,New Content
+78,lqQxSrrlTCBn15Y8_XiChw,Restaurante Morelos,611 West Strasburg Rd,West Chester,PA,19382.0,5.0,https://storage.googleapis.com/2024capstone51/photos/missing.jpg,New Content
+79,vF9PBhB_5SrQHbCXtyYijA,Hibachi Shokudo,1301 Vine St,Philadelphia,PA,19107.0,4.5,https://storage.googleapis.com/2024capstone51/photos/IIYkvcgZzTWBt4zd2h6NJg.jpg,New Content
+80,gBnolnh_bPI3WKsAs-avcA,Pizza Hut,"798 Woodlane Rd, Unit  15",Westampton,NJ,8060.0,2.5,https://storage.googleapis.com/2024capstone51/photos/lYiK2DIK9inlzYYkJeoH4A.jpg,New Content
+81,Xsuh82b0dlkXQLVgp4dWiA,Tarantini Panzarotti,2060 Springdale Rd,Cherry Hill,NJ,8003.0,4.0,https://storage.googleapis.com/2024capstone51/photos/missing.jpg,New Content
+82,8JwafFqgloTVXkk94LGqag,Shop Mark Supermarket,2522 W Lehigh Ave,Philadelphia,PA,19132.0,3.5,https://storage.googleapis.com/2024capstone51/photos/missing.jpg,New Content
+83,gLPlHz4xHajEWqQ88w8_tg,Wawa,579 N Lewis Rd,Royersford,PA,19468.0,3.5,https://storage.googleapis.com/2024capstone51/photos/UG7AoEJqfe8o8s_N6zvx0w.jpg,New Content
+84,PLJyFaxHZv5UkbNPdMdWnw,Cheeseboro's Kitchen,293 Green Ln,Ewing Township,NJ,8638.0,3.5,https://storage.googleapis.com/2024capstone51/photos/missing.jpg,New Content
+85,kka9G6czM7e7QdXFQbRo9A,Wawa,1920 West Macdade Blvd,Woodlyn,PA,19094.0,4.0,https://storage.googleapis.com/2024capstone51/photos/mRA_8IYU_HgyxTIreLkOzg.jpg,New Content
+86,-uPvL8kLaSzG-KxkSKL6RA,Hong Kong Deli,3294 Gaul St,Philadelphia,PA,19134.0,4.0,https://storage.googleapis.com/2024capstone51/photos/missing.jpg,New Content
+87,cU0_JyREJ-3vwaNxRdmmig,Crave Pitman,9 S Bdwy,Pitman,NJ,8071.0,4.5,https://storage.googleapis.com/2024capstone51/photos/6HerMLt7t3U2Rd0DJpl0Yw.jpg,New Content
+88,f_SzhRI25oSaNNu2RpYgJA,Gourmay Diner,6208 Passyunk Ave,Philadelphia,PA,19153.0,4.0,https://storage.googleapis.com/2024capstone51/photos/missing.jpg,New Content
+89,b1HPkR9No_faueK3dSE6_Q,Makefield's Public House,1418 Woodside Rd,Yardley,PA,19067.0,4.0,https://storage.googleapis.com/2024capstone51/photos/faJyU435gttW5AwIFS9BXA.jpg,New Content
+90,CZuC-Yp3O96vUyk-mvAd4A,Chat On Chew,435 W Chew Ave,Philadelphia,PA,19120.0,4.0,https://storage.googleapis.com/2024capstone51/photos/missing.jpg,New Content
+91,sGdpqF3LRPMJfr7ickXlgg,Wawa,3800 Garret Rd,Drexel Hill,PA,19026.0,3.0,https://storage.googleapis.com/2024capstone51/photos/missing.jpg,New Content
+92,nnr4ejOo4CkdG4Do8QJa6g,Mister Meat,3945 Federal St,Pennsauken,NJ,8110.0,3.5,https://storage.googleapis.com/2024capstone51/photos/missing.jpg,New Content
+93,uMoHJJg3zFNjh09WxN8HWA,Taqueria Atexquita,220 New Castle Ave,New Castle,DE,19720.0,3.5,https://storage.googleapis.com/2024capstone51/photos/missing.jpg,New Content
+94,i-FcfJpx8COXHJuj4PFb3Q,Azione,241 Chestnut St,Philadelphia,PA,19106.0,2.0,https://storage.googleapis.com/2024capstone51/photos/3WMs8wjl1hRW5YL9o1dxPA.jpg,New Content
+95,PF0zJt5Oc_uQ4UlupWrMeg,Bottino's Supermarket of Washington Township,Hurffville Crosskeys,Sewell,NJ,8080.0,3.0,https://storage.googleapis.com/2024capstone51/photos/missing.jpg,New Content
+96,k5KoKw-Vn21Du3HismOxtA,Tuscan Bistro,475 Hurffville-Crosskeys Rd,Sewell,NJ,8080.0,4.0,https://storage.googleapis.com/2024capstone51/photos/missing.jpg,New Content
+97,5HU_irhMv4hciHoVv_7_5Q,Jersey Mike's Subs,4347 W Swamp Rd,Doylestown,PA,18902.0,3.5,https://storage.googleapis.com/2024capstone51/photos/aXmK8fXpfIvDNLi853z5qg.jpg,New Content
+98,TxDWECm9PbIboftdEoPeTQ,Hola Taco,1084 Lancaster Ave,Downingtown,PA,19335.0,2.0,https://storage.googleapis.com/2024capstone51/photos/OrgFxFeQUOquSJq9ZIIdEw.jpg,New Content
+99,KrJcaM7Fh-NClOIXfB-s4g,Espresso! Coffee Bar,1201 N Market St,Wilmington,DE,19801.0,4.5,https://storage.googleapis.com/2024capstone51/photos/ksfAIQ_zar3j0GylxKm8hA.jpg,New Content
+100,Y4yzcuNNi2Lh8WEfr5dEtg,Chinatown Chinese Restaurant,3219 Chichester Ave,Upper Chichester,PA,19061.0,3.0,https://storage.googleapis.com/2024capstone51/photos/missing.jpg,New Content
+101,7j-s7IsivJLszx0s0w_QNw,Montego Grill,5222 Walnut St,Philadelphia,PA,19139.0,1.0,https://storage.googleapis.com/2024capstone51/photos/missing.jpg,New Content
+102,OWGo9J-RotuHTDu5kUp0lw,Debbie's Deli,1720 Liberty St,Trenton,NJ,8629.0,4.5,https://storage.googleapis.com/2024capstone51/photos/missing.jpg,New Content
+103,_iUlEsWFSQrvujrIssuMNQ,Wawa,10 Davisville Rd,Warminster,PA,18974.0,3.0,https://storage.googleapis.com/2024capstone51/photos/missing.jpg,New Content
+104,RnMGVQpGRmEmJlI7Uewi4A,Taijiang Snackies,106 N 10th St,Philadelphia,PA,19107.0,4.5,https://storage.googleapis.com/2024capstone51/photos/missing.jpg,New Content
+105,cPBngGz1gvCS8J8kK8frpw,Jakes Place,5550 Chester Ave,Philadelphia,PA,19143.0,3.0,https://storage.googleapis.com/2024capstone51/photos/missing.jpg,New Content
+106,55X3tkJf7TJGdOOHOIxGag,Kyushu Ramen & Sushi,907 S 9th St,Philadelphia,PA,19147.0,5.0,https://storage.googleapis.com/2024capstone51/photos/7Yi5kmPIixFoPiuAD3C-5g.jpg,New Content
+107,OscDIAJzcwdcYqg1aH6QlA,Happy Days Mart,1541 Hook Rd,Folcroft,PA,19032.0,4.5,https://storage.googleapis.com/2024capstone51/photos/missing.jpg,New Content
+108,ejg5XYqnNmPjtwjeFU5GaQ,Uptown Seafood,6255 Limekiln Pike,Philadelphia,PA,19141.0,2.0,https://storage.googleapis.com/2024capstone51/photos/missing.jpg,New Content
+109,1O2ZjNCQMLHXYX6S4eHysQ,Dice's Creative Cakes,30 N Reading Ave,Boyertown,PA,19512.0,4.0,https://storage.googleapis.com/2024capstone51/photos/missing.jpg,New Content
+110,qs_yXC1KdbxD7iPDhrBptw,LaMarinella Pizzeria,260 Exton Sq Mall,Exton,PA,19341.0,4.0,https://storage.googleapis.com/2024capstone51/photos/missing.jpg,New Content
+111,QNq-EfXts3qPzHRmEKUZOg,The Hot Dog Shack,120 Creek Rd,Mount Laurel,NJ,8054.0,3.0,https://storage.googleapis.com/2024capstone51/photos/missing.jpg,New Content
+112,NklQ7gaHfU6emYzi-zmj9g,Stony Hill Kitchen,"790 Township Line Rd, Ste 105",Yardley,PA,19067.0,4.0,https://storage.googleapis.com/2024capstone51/photos/missing.jpg,New Content
+113,pRuQpgFGDh4wYP3nU-mg9w,Cafe el Colombiano,3118 River Ave,Camden,NJ,8105.0,4.0,https://storage.googleapis.com/2024capstone51/photos/u9LsIDhhroputKWLn3KQaQ.jpg,New Content
+114,CUckmG16ZfLaLogSDlSNYw,El Cantaro,181 S Dupont Hwy,New Castle,DE,19720.0,4.0,https://storage.googleapis.com/2024capstone51/photos/missing.jpg,New Content
+115,EGSR3XIGuwa-CLAQnJmqdw,Wawa,200 Green Ln,Bristol,PA,19007.0,4.5,https://storage.googleapis.com/2024capstone51/photos/missing.jpg,New Content
+116,YbpNzwI5iBvsBDwdwc9Mmg,Gordon Stein -I Love Philly Homes Team - Compass,"1624 Locust St, Floor 5",Philadelphia,PA,19103.0,5.0,https://storage.googleapis.com/2024capstone51/photos/Q8X_Ta9VZwqIy5NZcM368Q.jpg,New Content
+117,UIzaUKz90UWNHi0vLk5VwQ,Popeyes Louisiana Kitchen,4501 Castor Ave,Philadelphia,PA,19124.0,2.0,https://storage.googleapis.com/2024capstone51/photos/fR-dq_AZ7SH1HeGN6Q5k3A.jpg,New Content
+118,kEAbm5qzp2V8o8iuE7w7nQ,Wendy's,813 E County Line Rd,Warminster,PA,18974.0,3.0,https://storage.googleapis.com/2024capstone51/photos/missing.jpg,New Content
+119,XWDbA6RFVBBLjPps-f47Cw,Pasteleria Rojas,2110 Kirkwood Hwy,Wilmington,DE,19805.0,3.5,https://storage.googleapis.com/2024capstone51/photos/missing.jpg,New Content
+120,6qpa_HVaJ47vrukvK0qjsQ,Subway,"2501 Rt. 130 & Church Rd, Ste 9",Cinnaminson,NJ,8077.0,2.5,https://storage.googleapis.com/2024capstone51/photos/missing.jpg,New Content
+121,4zR1WBumC9n8WphzboVWtQ,Bagel Express Mini Mart,327 Mullica Hill Rd,Glassboro,NJ,8028.0,4.5,https://storage.googleapis.com/2024capstone51/photos/I_25GOKeBxuV0c-kjC6jvA.jpg,New Content
+122,kvS8SpAgEUWCnmOBt4g2cg,Scramble Club,5201 Market St,Philadelphia,PA,19139.0,3.5,https://storage.googleapis.com/2024capstone51/photos/missing.jpg,New Content
+123,OAs42PSxiaPS25sO8Vtfiw,Lets Wok,6258 N Broad St,Philadelphia,PA,19141.0,4.0,https://storage.googleapis.com/2024capstone51/photos/missing.jpg,New Content
+124,2PX8MOkN6cPG7-gte7IpIQ,Mimi’s Cafe & Market,184 E Evergreen Ave,Philadelphia,PA,19118.0,4.0,https://storage.googleapis.com/2024capstone51/photos/SWSTrXSzsedZmtWs5tqveQ.jpg,New Content
+125,ZpHSMgEoV3fdyYbl8d8gZg,Popeyes Louisiana Kitchen,6300 City Line Ave,Philadelphia,PA,19151.0,2.0,https://storage.googleapis.com/2024capstone51/photos/BTd2JDiVvBwEEInWQQcRSQ.jpg,New Content
+126,RGjzDIO6HlOU3Uo4IqVAww,A King's Cafe,1400 Stenton Ave,Philadelphia,PA,19141.0,3.0,https://storage.googleapis.com/2024capstone51/photos/O0PgTNcaktUr9I9gS5Xavg.jpg,New Content
+127,B3UQC3oMyhRA274_KXDFKw,Wawa,1800 Ticonderoga Blvd,Chester Springs,PA,19425.0,3.0,https://storage.googleapis.com/2024capstone51/photos/missing.jpg,New Content
+128,3Vlftzk7RIe2z87hAjw1Cg,Wawa,1195 Pottstown Pk,West Chester,PA,19380.0,2.5,https://storage.googleapis.com/2024capstone51/photos/missing.jpg,New Content
+129,B-XPbtnPLfqIZHTpvapQ6w,Back-a-yard Jamaican,308 S 52nd St,Philadelphia,PA,19143.0,3.5,https://storage.googleapis.com/2024capstone51/photos/6iuC1CqveuwstvAj_Apt3Q.jpg,New Content
+130,1MgX6qN2tghHt_UrX3CFew,Pelicana Chicken,719 N 2nd St,Philadelphia,PA,19123.0,4.5,https://storage.googleapis.com/2024capstone51/photos/missing.jpg,New Content
+131,ULAfzCa_T3IeaUAhhASJMw,A & A Steaks,6301 Haverford Ave,Philadelphia,PA,19151.0,3.5,https://storage.googleapis.com/2024capstone51/photos/missing.jpg,New Content
+132,G42OqzStFgno8a0mY_w06g,FruitFlowers,1 Summit Ave,Broomall,PA,19008.0,4.0,https://storage.googleapis.com/2024capstone51/photos/missing.jpg,New Content
+133,1BihbEi39AE_nBBdBHwmng,Aavya Indian Cuisine,"201 2nd Ave, Unit 109",Collegeville,PA,19426.0,5.0,https://storage.googleapis.com/2024capstone51/photos/missing.jpg,New Content
+134,myAaXOSoxfaNnCPTcV4M8w,Burger King,300 S Maryland Ave,Wilmington,DE,19804.0,3.0,https://storage.googleapis.com/2024capstone51/photos/missing.jpg,New Content
+135,43-v-OqKG16a2TbwdkXNTQ,Vivaldi Restaurant,2920 N 5th St,Philadelphia,PA,19133.0,4.0,https://storage.googleapis.com/2024capstone51/photos/missing.jpg,New Content
+136,pdyP86j0Z7-y06LRQlZL1g,Foodarama,4510 Adams Cir,Bensalem,PA,19020.0,4.0,https://storage.googleapis.com/2024capstone51/photos/missing.jpg,New Content
+137,IZsY9gsVpib6L0NCuCEzDg,Pizza Express,101 S Olden Ave,Trenton,NJ,8609.0,2.0,https://storage.googleapis.com/2024capstone51/photos/missing.jpg,New Content
+138,A7jnPMErUKF4SI4JzCk3hQ,Hurricane Jack's Bar and Restaurant,1542 Haines Rd,Levittown,PA,19055.0,3.0,https://storage.googleapis.com/2024capstone51/photos/missing.jpg,New Content
+139,Q0ayjrBIzL5sE4qyWbBcdQ,Aunt Berts's Kitchen Too,1-29 S White Ave,Berlin,NJ,8009.0,4.0,https://storage.googleapis.com/2024capstone51/photos/missing.jpg,New Content
+140,XH2RHQZRcLd_-dj-hv_iVw,Clara Burton Service Area,1 Clara Burton Ln,Oldmans Township,NJ,8067.0,3.0,https://storage.googleapis.com/2024capstone51/photos/missing.jpg,New Content
+141,8kvrq98-vEojtSETUsDamA,Lale Gourmet Kebab,2 Penn Center Concourse,Philadelphia,PA,19102.0,2.5,https://storage.googleapis.com/2024capstone51/photos/missing.jpg,New Content
+142,Pk8wDjFerE25edYymxRDPg,Stenton Pizza,7171 Stenton Ave,Philadelphia,PA,19138.0,2.0,https://storage.googleapis.com/2024capstone51/photos/missing.jpg,New Content
+143,gURYXlGgcYAmKI48jvFUxQ,Wing & Hing Restaurant,15 S Broadway,Gloucester City,NJ,8030.0,2.5,https://storage.googleapis.com/2024capstone51/photos/UTumQsSoOEomrjK-tfmlLg.jpg,New Content
+144,AWG6bmKsz-VWrgFfgGK8Cw,Farm Shop Deli,3905 State Rd,Drexel Hill,PA,19026.0,5.0,https://storage.googleapis.com/2024capstone51/photos/UUaWDkpahld-YhUx44dVaw.jpg,New Content
+145,CcP-Xzb9HdZU63yW3YAVoA,Top Taste 2,7252 Elmwood Ave,Philadelphia,PA,19142.0,4.0,https://storage.googleapis.com/2024capstone51/photos/missing.jpg,New Content
+146,VgLZznl7Mj732MSgsnCiXA,The Loft at Sweet Water Featuring Tapped Out,2554 Geryville Pike,Pennsburg,PA,18073.0,3.5,https://storage.googleapis.com/2024capstone51/photos/w9L0zmw3gd2THid4BbawFQ.jpg,New Content
+147,9ZL_iQiLTPTOMm6nDLVCAw,Bryn Mawr Pizza II,7572 Haverford Ave,Philadelphia,PA,19151.0,3.0,https://storage.googleapis.com/2024capstone51/photos/missing.jpg,New Content
+148,eOdJgsNyROi8TDV-F-_juA,Wawa,882 Glassboro Rd,Williamstown,NJ,8094.0,3.0,https://storage.googleapis.com/2024capstone51/photos/missing.jpg,New Content
+149,nz5RN5C4ezvsKDyVu2pSLA,MrBeast Burger,1320 Spring Garden St,Philadelphia,PA,19123.0,3.0,https://storage.googleapis.com/2024capstone51/photos/pfhQpNtpPULUdLRiABaVEw.jpg,New Content
+150,2vbbxo8E4z_41e9E3WgNRw,Play2,1526 Packer Ave,Philadelphia,PA,19145.0,3.0,https://storage.googleapis.com/2024capstone51/photos/WiR1dHxTHQ2OwgwmI4XKRA.jpg,New Content
+151,hWGMdTAvBJYQC8_scQv4Bg,QQ Deli Market,1231 Race St,Philadelphia,PA,19107.0,3.5,https://storage.googleapis.com/2024capstone51/photos/missing.jpg,New Content
+152,pYs54pWZ_ajw_c92ptzB3Q,Lightbox Cafe,704 S 4th St,Philadelphia,PA,19147.0,5.0,https://storage.googleapis.com/2024capstone51/photos/msA7w64YC0icfWQ6KA3IAw.jpg,New Content
+153,RmGrmzGAx7bmCa4t3T1YEg,Super Wok,517 N Warwick Rd,Somerdale,NJ,8083.0,3.0,https://storage.googleapis.com/2024capstone51/photos/missing.jpg,New Content
+154,E-MQIeMGbcbHWtl8-WMxow,Philly Pretzel Factory,"108 Swedesboro Rd, Ste 4",Mullica Hill,NJ,8062.0,3.0,https://storage.googleapis.com/2024capstone51/photos/missing.jpg,New Content
+155,qbt1zCsv5aDQoGGjTfbV2A,Dock Street Cafe,"6700 Essington Ave, Unit C-1, Philadelphia Wholesale Produce Market",Philadelphia,PA,19153.0,3.0,https://storage.googleapis.com/2024capstone51/photos/Jnnyt7YhIQRLBXYeF9YScA.jpg,New Content
+156,f2pOTQ5d64XYJ0PeMHfBXQ,Tim Hortons,57 S White Horse Pike,Stratford,NJ,8084.0,3.5,https://storage.googleapis.com/2024capstone51/photos/svjEkzhO1ln6IV66zLAtig.jpg,New Content
+157,8NCYYDGGPtmL4NxQxKUKBA,Burger King,5921 Rising Sun Ave,Philadelphia,PA,19120.0,1.0,https://storage.googleapis.com/2024capstone51/photos/missing.jpg,New Content
+158,_iD1PW9uiF8sOXJ4uLm9GA,Delicias Colombianas Sami,410 E Main St,Norristown,PA,19401.0,4.5,https://storage.googleapis.com/2024capstone51/photos/missing.jpg,New Content
+159,3xoCPDgE5dEretLD4yFpRw,The Juice Pod,"20 N Newtown Street Rd, Ste 100",Newtown Square,PA,19073.0,2.5,https://storage.googleapis.com/2024capstone51/photos/missing.jpg,New Content
+160,nPruiFveAtUcGrUbFBeQuQ,Bark Busters Dog Home Training,,Newtown,PA,18940.0,4.0,https://storage.googleapis.com/2024capstone51/photos/missing.jpg,New Content
+161,Hk_EjFDeK5u7rlYEUx6a_g,Jaggie's Restaurant,6220 Lansdowne Ave,Philadelphia,PA,19151.0,3.0,https://storage.googleapis.com/2024capstone51/photos/missing.jpg,New Content
+162,qv6TSnK4iXZAXxG13mjv-w,Angelina's Panini Bar,Philadelphia International Airport,Philadelphia,PA,19153.0,2.0,https://storage.googleapis.com/2024capstone51/photos/missing.jpg,New Content
+163,1nK_pMoriYMXfx2GHVdtkQ,Pizza Warehouse,"1000 Diamond St, Ste 114",Philadelphia,PA,19122.0,3.0,https://storage.googleapis.com/2024capstone51/photos/53LNGAQSL07u8f8z6pYWSg.jpg,New Content
+164,PGFzlPVRUz2rpR9DRAU7dQ,Murph's Irish Pub,401 Philadelphia Pike,Wilmington,DE,19809.0,3.5,https://storage.googleapis.com/2024capstone51/photos/missing.jpg,New Content
+165,LxvqbaSzrK7xjfcrxNoM9g,Sarku Japan,1750 Deptford Center Rd,Deptford Township,NJ,8096.0,4.0,https://storage.googleapis.com/2024capstone51/photos/8UrCbluM33cbjO0nRFBdVQ.jpg,New Content
+166,ee90xw9wB5-2JBlcqEDa1g,The Weekday Cafe,"790 Township Line Rd, Ste 100",Yardley,PA,19067.0,3.0,https://storage.googleapis.com/2024capstone51/photos/missing.jpg,New Content
+167,_AJaYqoPRdN7sSxuMDQlVw,Wawa,112 West Fourth St,Bridgeport,PA,19405.0,2.0,https://storage.googleapis.com/2024capstone51/photos/missing.jpg,New Content
+168,av9TaTSDj96rDEeL5G8N8g,Wawa,101 Warwick Rd,Magnolia,NJ,8049.0,3.5,https://storage.googleapis.com/2024capstone51/photos/missing.jpg,New Content
+169,IHhg7wim1CZE7dTGCZ-lag,Edible Arrangements,114 Kings Hwy E,Haddonfield,NJ,8033.0,3.5,https://storage.googleapis.com/2024capstone51/photos/missing.jpg,New Content
+170,bhjc85CZ-fBNOQneQczuEw,China Palace Chinese Restaurant,249 Glenside Ave,Holmes,PA,19043.0,2.0,https://storage.googleapis.com/2024capstone51/photos/missing.jpg,New Content
+171,VW03li9QzVKRn5F_KET8uA,Sciarrino's Pizza,4 Chester Pike,Darby,PA,19023.0,4.0,https://storage.googleapis.com/2024capstone51/photos/missing.jpg,New Content
+172,BojAOFBfFjXELoD09CVlww,Haddon Diner,317 Haddon Ave,Haddon Township,NJ,8108.0,3.0,https://storage.googleapis.com/2024capstone51/photos/missing.jpg,New Content
+173,jnE3-OTQPy6k9gHgdMyToQ,State 2 State Seafood,2012 Delmar Dr,Folcroft,PA,19032.0,5.0,https://storage.googleapis.com/2024capstone51/photos/missing.jpg,New Content
+174,i0b_xiKIbExKtF3vqo1Bzw,Shake Shack,3601 S Broad St,Philadelphia,PA,19148.0,4.0,https://storage.googleapis.com/2024capstone51/photos/AP6i8GDWMZU-R9bNVUXsPw.jpg,New Content
+175,G6BKeEPl8Pvoy1ra288gHw,Freed's Super Market,2024 Swamp Pike,Gilbertsville,PA,19525.0,4.5,https://storage.googleapis.com/2024capstone51/photos/missing.jpg,New Content
+176,Qq4bJfagVGJ3Z7BDbkiXuA,Adrian's Sports Bar And Grill,5912 Germantown Ave,Philadelphia,PA,19144.0,2.0,https://storage.googleapis.com/2024capstone51/photos/missing.jpg,New Content
+177,-3ArWZfDjfab8qVHf3WVtg,Taste Africa,6518 Woodland Ave,Philadelphia,PA,19142.0,4.0,https://storage.googleapis.com/2024capstone51/photos/missing.jpg,New Content
+178,yUqps9Ws3kVfkJbN61xo9A,Liu's Garden,1458 E Lycoming St,Philadelphia,PA,19124.0,3.5,https://storage.googleapis.com/2024capstone51/photos/missing.jpg,New Content
+179,CCjzAzmJzvBm-dvfhSAScg,Rooster & The Chick,,Eddington,PA,19020.0,4.0,https://storage.googleapis.com/2024capstone51/photos/missing.jpg,New Content
+180,5ZjEI6N5iZ_ACQEjlfABFg,Dunkin',5 E. Crescent Blvd,Collingswood,NJ,8108.0,3.5,https://storage.googleapis.com/2024capstone51/photos/cceye68z31VtErLJjFx3Dw.jpg,New Content
+181,AOaCT7MBizYN09RnP0FYtg,What's In This?,299 S Columbus Blvd,Philadelphia,PA,19106.0,4.0,https://storage.googleapis.com/2024capstone51/photos/missing.jpg,New Content
+182,ydpTeUOS3fvu3uP47s-_Nw,TM Cafe,1000 W 2nd St,Chester,PA,19013.0,4.0,https://storage.googleapis.com/2024capstone51/photos/missing.jpg,New Content
+183,KKGmp8oQC4PkGf7dGvJcmw,Pike Cold Cut Center,241 E Chester Pike,Ridley Park,PA,19078.0,3.5,https://storage.googleapis.com/2024capstone51/photos/missing.jpg,New Content
+184,CCWH-7dU8-Hf3eu_EdmcQA,Aj's,8152 Ogontz Ave,Cheltenham,PA,19012.0,2.5,https://storage.googleapis.com/2024capstone51/photos/missing.jpg,New Content
+185,QPBNAvpYurDWAkJGSgInow,Vinny G's Bagels and Deli,401 Broad St,Florence,NJ,8518.0,5.0,https://storage.googleapis.com/2024capstone51/photos/P7HxfCXNqWh89ILmc87I-g.jpg,New Content
+186,jlurs6WPxJfG6dVvUYch6w,Wegmans Meals 2GO,50 Foundry Way,Malvern,PA,19355.0,1.5,https://storage.googleapis.com/2024capstone51/photos/p5Y1k0qNe7EmcQvNFtKoVw.jpg,New Content
+187,gdH0yhCQaHjBQ6vd0rYiSA,Krispy Krunchy Chicken,1825-33 West Oregon Ave,Philadelphia,PA,19145.0,3.0,https://storage.googleapis.com/2024capstone51/photos/missing.jpg,New Content
+188,oZuEKnJErt81nqXz-8SLow,Parson’s Barbecue,821 Collegeville Rd,Collegeville,PA,19426.0,3.0,https://storage.googleapis.com/2024capstone51/photos/missing.jpg,New Content
+189,sY5_2RHM1_dCqd2u_7fzLA,Charito's kitchen,10  Mill St,Mount Holly,NJ,8060.0,3.5,https://storage.googleapis.com/2024capstone51/photos/missing.jpg,New Content
+190,DIz7ET7IDNsfvYp7p5RZyA,The Stand,1844 W Hunting Park Ave,Philadelphia,PA,19140.0,3.5,https://storage.googleapis.com/2024capstone51/photos/missing.jpg,New Content
+191,I2Yt2mJp0TJkdOnIpuOwew,Tres Jalapenos,744 Christian St,Philadelphia,PA,19147.0,3.0,https://storage.googleapis.com/2024capstone51/photos/missing.jpg,New Content
+192,Z6KoTK27hd8s4c2HvEhWBw,El Pastorcito Taquearía,604 W Marshall St,Norristown,PA,19401.0,3.0,https://storage.googleapis.com/2024capstone51/photos/missing.jpg,New Content
+193,i2Bp5z5TjwhfbcSOn4kcPA,New China House,1556 Haines Rd,Levittown,PA,19055.0,4.0,https://storage.googleapis.com/2024capstone51/photos/missing.jpg,New Content
+194,EVDF5kZpL2hI9EBW-oe1gw,Sundance Saloon,3531 Concord Rd,Aston,PA,19014.0,3.5,https://storage.googleapis.com/2024capstone51/photos/missing.jpg,New Content
+195,8HjZ0wljKU7diEn9KM5xhg,The Stone's Throw,931 Stony Hill Rd,Yardley,PA,19067.0,3.5,https://storage.googleapis.com/2024capstone51/photos/xvTi69NvTuxSW93G2AIUxw.jpg,New Content
+196,hhC_L7WE5sQB8TkaWxkBwA,Dunkin',1301 N 5th St,Perkasie,PA,18944.0,2.5,https://storage.googleapis.com/2024capstone51/photos/aXcwDHNAS3tTqPZnMluRKA.jpg,New Content
+197,tg8mH91AaGjLL93Eg8mL0A,Popeyes Louisiana Kitchen,122 W Chelten Ave,Philadelphia,PA,19144.0,4.5,https://storage.googleapis.com/2024capstone51/photos/i4GnRw94ybNoAuJLpsma1A.jpg,New Content
+198,ogoe6WcXJnW96rvc3NyMfw,Burger King,381 W Dekalb Pike,King Of Prussia,PA,19406.0,1.0,https://storage.googleapis.com/2024capstone51/photos/missing.jpg,New Content
+199,bC69Fsq1LyfPhDzA-F9AiQ,A-1 Pastry Shoppe,"2919 Rte 206, Ste 612",Columbus,NJ,8022.0,3.0,https://storage.googleapis.com/2024capstone51/photos/nIUV_rPqBBCTQuzaYlA44A.jpg,New Content
+200,pZCNjLPZXRznxfC0Vzvh9g,MOM's Organic Market,925 Easton Rd,Roslyn,PA,19001.0,4.5,https://storage.googleapis.com/2024capstone51/photos/missing.jpg,New Content
+201,UaJEbU86wjE-5cUfpTTEEg,Golden China,6000 Oxford Ave,Philadelphia,PA,19111.0,3.5,https://storage.googleapis.com/2024capstone51/photos/missing.jpg,New Content
+202,2-hB3XuoGWsBH4RnEY4FTw,Judy's Kitchen,3300 Arch St,Philadelphia,PA,19104.0,3.5,https://storage.googleapis.com/2024capstone51/photos/missing.jpg,New Content
+203,5Ynl2kbPc53lnA4XPwnlyQ,KFC,9201 Roosevelt Blvd,Philadelphia,PA,19114.0,2.0,https://storage.googleapis.com/2024capstone51/photos/LHVURyUSjEm5-Vj6Ye1jpQ.jpg,New Content
+204,8f3G8w08ow_dNvnnF9CACA,Chick-fil-A,244 N Route 73,West Berlin,NJ,8091.0,2.0,https://storage.googleapis.com/2024capstone51/photos/lY_jZYKv5GmsYZLJt_PBrA.jpg,New Content
+205,tGCs0AhgubODocZOLqAuMw,State of New Jersey Motor Vehicle Comission,2600 Mt Ephraim Ave,Camden,NJ,8104.0,3.5,https://storage.googleapis.com/2024capstone51/photos/missing.jpg,New Content
+206,2SDa9Vc7opPT1WicNIkVXw,Texas Chicken & Burgers,"3960-80 Kensington Ave, Philadelphia",Pennsylvania,PA,19124.0,2.0,https://storage.googleapis.com/2024capstone51/photos/Cd-BaB2YjyxQWjDoE06X3Q.jpg,New Content
+207,_X6eMQoZX9GdSgSwOapwMA,Vereinigung Erzgebirge,130 Davisville Rd,Warminster,PA,18974.0,4.0,https://storage.googleapis.com/2024capstone51/photos/WaiXRbfldHy8dqbKeH1EUQ.jpg,New Content
+208,XiPmvfzsqSUdwBZfSt3AUA,Wawa,2114 Church Rd,Cinnaminson,NJ,8077.0,3.5,https://storage.googleapis.com/2024capstone51/photos/missing.jpg,New Content
+209,rNl7bTmNt7O2EyFq7eOzQw,King Street Pub,1 S King St,Gloucester City,NJ,8030.0,4.0,https://storage.googleapis.com/2024capstone51/photos/_-nVlyK-_d3KgamZ7p-4-w.jpg,New Content
+210,O6Pt0lge8D3UqYZoS3zvlA,Village Caterers,1292 Allentown Rd,Lansdale,PA,19446.0,4.0,https://storage.googleapis.com/2024capstone51/photos/missing.jpg,New Content
+211,_alfsQK682Bke9MAfWRKdA,Abeke’s Kitchen,6451 Grays Ave,Philadelphia,PA,19142.0,4.0,https://storage.googleapis.com/2024capstone51/photos/ZCuGFNz1kWTxFOFVUYA7iw.jpg,New Content
+212,HKybYRX9b-Qaobnojl7-6w,Cozette Pizza,443 S St,Philadelphia,PA,19147.0,4.0,https://storage.googleapis.com/2024capstone51/photos/missing.jpg,New Content
+213,-e0akuVf-9zC6vBbQyT0Ng,Crown Fried Chicken,6342 Stenton Ave,Philadelphia,PA,19138.0,2.0,https://storage.googleapis.com/2024capstone51/photos/missing.jpg,New Content
+214,cuZMwfLgrYvw86edfMix2w,Will’s + Bill’s Brewery and Restaurant,324 Swedesford Rd,Berwyn,PA,19312.0,4.5,https://storage.googleapis.com/2024capstone51/photos/missing.jpg,New Content
+215,x3eNFvMD1LaqpBnJSD6A9Q,P N B Breakfast,6003 N 5th St,Philadelphia,PA,19120.0,3.0,https://storage.googleapis.com/2024capstone51/photos/missing.jpg,New Content
+216,fiIoC-QwgqOBbeL7NPu0bA,Taco Bell,4430 North Broad St,Philadelphia,PA,19144.0,2.5,https://storage.googleapis.com/2024capstone51/photos/JW4nC2PziMTjlBqMyoVIAA.jpg,New Content
+217,NxB8M1wnJQ5xoXDiUgqmIg,Burger King,1401-1415 W Wyoming Ave,Philadelphia,PA,19140.0,1.0,https://storage.googleapis.com/2024capstone51/photos/missing.jpg,New Content
+218,2Gn_WhIitWsxYrDb45VCLQ,N & E Agora Gourmet,917 Tyson Ave,Philadelphia,PA,19111.0,4.5,https://storage.googleapis.com/2024capstone51/photos/missing.jpg,New Content
+219,eazV3X8nptiyZk_w-LHXLA,Miss Kathy's,1412 S 5th St,Philadelphia,PA,19147.0,4.5,https://storage.googleapis.com/2024capstone51/photos/missing.jpg,New Content
+220,Az4V0S5GdA0n24l53Rw7Ig,Wawa,132 Welsh Rd,Horsham,PA,19044.0,4.5,https://storage.googleapis.com/2024capstone51/photos/missing.jpg,New Content
+221,AS8rpD29BfuKufmVOeXp9g,Camilas Pizzeria IV - Morrisville,433 Alden Ave,Morrisville,PA,19067.0,3.0,https://storage.googleapis.com/2024capstone51/photos/j1gTSzlVZ4jBTnGhz61icw.jpg,New Content
+222,vBg3hGXN7kQA7vA-DwnHiA,Philly Pretzel Factory,126 Eagleview Blvd,Exton,PA,19341.0,3.5,https://storage.googleapis.com/2024capstone51/photos/missing.jpg,New Content
+223,XTWdXSOoUJnIMiVSA-1gDg,Randys Pizza,2906 S Black Horse Pike,Williamstown,NJ,8094.0,3.0,https://storage.googleapis.com/2024capstone51/photos/missing.jpg,New Content
+224,fo5dHfWSlVTJiX9aRiggtw,F & M Caterers,3701 Church Rd,Mount Laurel,NJ,8054.0,3.5,https://storage.googleapis.com/2024capstone51/photos/missing.jpg,New Content
+225,hpqQzqZdsa3ku36drAAwOA,Jacquelines Pizza & Pasta,108 S Broadway,Gloucester City,NJ,8030.0,4.0,https://storage.googleapis.com/2024capstone51/photos/missing.jpg,New Content
+226,yAwSBNIaS2OaRcwuPTJOoQ,Ms D's Soulfood & BBQ,730 E Chelten Ave,Philadelphia,PA,19144.0,2.0,https://storage.googleapis.com/2024capstone51/photos/missing.jpg,New Content
+227,5fADzooGB_B6aUctiasJlA,Trattoria Valona,420 S York Rd,Hatboro,PA,19040.0,4.5,https://storage.googleapis.com/2024capstone51/photos/utkcEcfD3d8DY2DWU1d78A.jpg,New Content
+228,48_SDBXTR2aaU220k3hxTg,Frank's Steak Shop,227 Main St,Darby,PA,19023.0,4.5,https://storage.googleapis.com/2024capstone51/photos/missing.jpg,New Content
+229,0zHKg3EAOwROEn8hnYRvUg,Groovy Pizza And Cafe,312 Broad St,Florence Township,NJ,8518.0,5.0,https://storage.googleapis.com/2024capstone51/photos/missing.jpg,New Content
+230,39Vq4--74ljOpcFqn6vbGw,Frog Commissary,222 N 20th St,Philadelphia,PA,19103.0,5.0,https://storage.googleapis.com/2024capstone51/photos/missing.jpg,New Content
+231,2mGGwCCRoOB2_yhbl0jfqA,Nick's Pizza,850 W High St,Stowe,PA,19464.0,3.5,https://storage.googleapis.com/2024capstone51/photos/missing.jpg,New Content
+232,E3f7uDqc_lrTSLkxIyZWhQ,Domino's Pizza,832 E Philadelphia Ave,Boyertown,PA,19512.0,2.0,https://storage.googleapis.com/2024capstone51/photos/missing.jpg,New Content
+233,dS6KYuon9YG_9Ny1IS205A,Little Caesars,624 N White Horse Pike,Somerdale,NJ,8083.0,2.5,https://storage.googleapis.com/2024capstone51/photos/missing.jpg,New Content
+234,Qc974_Ezjpqg2wW5uoEUxA,Level Up Bar & Lounge,1330 Walnut St,Philadelphia,PA,19107.0,3.5,https://storage.googleapis.com/2024capstone51/photos/OvIP12JSuKi0k-1GJvHX0g.jpg,New Content
+235,1kMT0Sb67WORROJCPOuL0Q,Crab Du Jour - Bustleton,6234 Bustleton Ave,Philadelphia,PA,19149.0,3.0,https://storage.googleapis.com/2024capstone51/photos/LX4gLsivpZjcTXEcZGQD1w.jpg,New Content
+236,Pf-UDqpWj4wAB5KV4kqsTA,Bigheads Beef & Ale of Warminster Square,1499 W Street Rd,Warminster,PA,18974.0,2.0,https://storage.googleapis.com/2024capstone51/photos/missing.jpg,New Content
+237,MsahEUyFXv-chom17KI_3w,Appleton Catering,3517 Old Capitol Trl,Wilmington,DE,19808.0,4.0,https://storage.googleapis.com/2024capstone51/photos/missing.jpg,New Content
+238,uuU__BibPOdiwn7MdPW4vw,Tan's Finger Lickin Chicken,10090 Roosevelt Blvd,Philadelphia,PA,19116.0,4.0,https://storage.googleapis.com/2024capstone51/photos/yHNqQpGx6ZwnSeTs_8cKcQ.jpg,New Content
+239,Bt0Hz5LfGhwz1dK6MwcRUQ,KFC,3032 N Broad St,Philadelphia,PA,19132.0,2.0,https://storage.googleapis.com/2024capstone51/photos/QsnFYJwAvGDIvW88wRdZVQ.jpg,New Content
+240,VnECSKZnz-tDhDZ74s6k_w,Subway Restaurants,1511 Cecil B Moore Ave,Philadelphia,PA,19121.0,2.5,https://storage.googleapis.com/2024capstone51/photos/zk33JiDszjqTIhX3YLhmKg.jpg,New Content
+241,UVw6-8eNsp1hLOk5VrjIKQ,Arby's,12601 Knights Rd,Philadelphia,PA,19154.0,4.0,https://storage.googleapis.com/2024capstone51/photos/missing.jpg,New Content
+242,U_ZnSIQOkxZEvtllpepKNA,Joe's Pizza,5 Main St,Schwenksville,PA,19473.0,3.5,https://storage.googleapis.com/2024capstone51/photos/missing.jpg,New Content
+243,f7X5D29E5zDdG-UH7z6UJA,CJ's Americana,434 Pine St,Mount Holly,NJ,8060.0,3.0,https://storage.googleapis.com/2024capstone51/photos/missing.jpg,New Content
+244,bECBfbtyRzNXlQvmBgaAcQ,The Andalusia Bar and Grill,971 Bristol Pike,Bensalem,PA,19020.0,3.0,https://storage.googleapis.com/2024capstone51/photos/missing.jpg,New Content
+245,MqAvonk4-cJ-7pW78tR1Rw,Stuff'D by Jannah Jewelz,643 N 36th St,Philadelphia,PA,19104.0,4.0,https://storage.googleapis.com/2024capstone51/photos/missing.jpg,New Content
+246,kwxHDNF7MQ9kHd4F7PHCfw,SoBol Yardley,25 S Main St,Yardley,PA,19067.0,4.0,https://storage.googleapis.com/2024capstone51/photos/missing.jpg,New Content
+247,acUf_znOnxaUIBzRAVZpzg,Sharples Dining Hall,500 College Ave,Swarthmore,PA,19081.0,4.0,https://storage.googleapis.com/2024capstone51/photos/UmFWv9h8hKKJneNw_VtS5Q.jpg,New Content
+248,752g7SDnEV4Jcj_fsEvWxA,Sicily's Pizza,1819 Lancaster Ave,Wilmington,DE,19805.0,4.5,https://storage.googleapis.com/2024capstone51/photos/-BCMc3zx7-VPfUPEVPbKNA.jpg,New Content
+249,LwBUbOQhi3KKzmJCD7WrDg,Honey's Homebrewed Cafe,300 E High St,Pottstown,PA,19464.0,5.0,https://storage.googleapis.com/2024capstone51/photos/missing.jpg,New Content
+250,FW7m9xNqEGyhvKZlm-KFQA,North Hills Country Club,99 Station Ave,Glenside,PA,19038.0,4.5,https://storage.googleapis.com/2024capstone51/photos/missing.jpg,New Content
+251,zaeNGZfmOiBzGVqGhRfX3w,Le Caveau,614 S 7th St,Philadelphia,PA,19147.0,4.0,https://storage.googleapis.com/2024capstone51/photos/missing.jpg,New Content
+252,YFIk4noVT4mrdF2fiEr85w,Pamela's Gourmet,406 Louviers Dr,Newark,DE,19711.0,5.0,https://storage.googleapis.com/2024capstone51/photos/missing.jpg,New Content
+253,c6XVnUpPx-Hq9KWnuelOmg,China Garden,856 S Broad St,Trenton,NJ,8611.0,3.5,https://storage.googleapis.com/2024capstone51/photos/missing.jpg,New Content
+254,bw47OCNHoqDMHGEgs5AqQA,Steel Penny Cafe,451A Oakdale Ave,Hatboro,PA,19040.0,5.0,https://storage.googleapis.com/2024capstone51/photos/pVqU8TmX85Rb4-c0rsT2Ag.jpg,New Content
+255,GeRr5axM3-MBI-WKyasiPA,Heady Hoagies,102 Buck Rd,Southampton,PA,18966.0,4.0,https://storage.googleapis.com/2024capstone51/photos/y7WjGVTk8-y0fU-EaVNLkQ.jpg,New Content
+256,mShRkXrlpWJMkTz0dWj5VA,Vituperio Artisan Breads & Studio,1820 West Point Pike,Lansdale,PA,19446.0,5.0,https://storage.googleapis.com/2024capstone51/photos/missing.jpg,New Content
+257,VBDGfObS0-P1ixIjocc9Cw,Happy China,4119 Woerner Ave,Levittown,PA,19057.0,4.5,https://storage.googleapis.com/2024capstone51/photos/missing.jpg,New Content
+258,GXhExRdP5UUDhoxTRWQfcw,Lee's Chinese Restaurant,9226 Ashton Rd,Philadelphia,PA,19114.0,3.5,https://storage.googleapis.com/2024capstone51/photos/missing.jpg,New Content
+259,2JJO0xpG5J93Ic8top5luQ,Diablo's Pizzas,34 W Girard Ave,Philadelphia,PA,19123.0,4.0,https://storage.googleapis.com/2024capstone51/photos/WrFo4gaCrePF-2J8yHTQdQ.jpg,New Content
+260,L7R7CGnHw2jlAw2MMRUQow,Brick House Pizza & Restaurant,3332 Grant Ave,Philadelphia,PA,19114.0,3.0,https://storage.googleapis.com/2024capstone51/photos/missing.jpg,New Content
+261,n_AeE9Kr75Ot5i-JvwSBTw,Pizata,160 N Gulph Rd,King of Prussia,PA,19406.0,4.5,https://storage.googleapis.com/2024capstone51/photos/missing.jpg,New Content
+262,bjE19DpRbN-OgTMVaMwpJg,New York Fried Chicken,2931 N Market St,Wilmington,DE,19802.0,3.0,https://storage.googleapis.com/2024capstone51/photos/wNFenHiSEWWzsqpmURIrXg.jpg,New Content
+263,78X2nrDyQSjO4-VgPI9X2w,Subway,483 Woodlane Rd,Westhampton,NJ,8060.0,2.0,https://storage.googleapis.com/2024capstone51/photos/ivwpjvLzrbhmR1tn_h7yXg.jpg,New Content
+264,z4EPGizY26AmNwy3N5CX_w,La Catrachita Food Truck,1211 E Passyunck St,Philadelphia,PA,19147.0,3.0,https://storage.googleapis.com/2024capstone51/photos/missing.jpg,New Content
+265,E_EJIx6Qw74r6clNeVpldQ,Chester Family Pizza,5504 Chester Ave,Philadelphia,PA,19143.0,3.0,https://storage.googleapis.com/2024capstone51/photos/missing.jpg,New Content
+266,2HLZfbL-6lcr9jhriW6GeA,Subway Restaurants,1381 East Boot Road,West Chester,PA,19380.0,1.0,https://storage.googleapis.com/2024capstone51/photos/missing.jpg,New Content
+267,Pela9KXyn_tHiQP5df1mUg,Philly Pretzel Factory,2955 Market St,Philadelphia,PA,19104.0,3.5,https://storage.googleapis.com/2024capstone51/photos/missing.jpg,New Content
+268,pBguunWb0Mu6hDxgZ6j1AQ,Guy Fieri’s Taco Joint,"900 Packer Ave, Live! Casino Hotel",Philadelphia,PA,19148.0,3.5,https://storage.googleapis.com/2024capstone51/photos/YG2sj-n8rN78Y-nQriwNVw.jpg,New Content
+269,ehmz5MfGLWSLr8vKL5LFbg,Ryan's Country Store,417 Marianville Rd,Aston,PA,19014.0,5.0,https://storage.googleapis.com/2024capstone51/photos/UaPAQahAmV67iU8L5tp4KQ.jpg,New Content
+270,ROIohZxWgigjxjLQQ81Adw,Tony's Place,6300 Frankford Ave,Philadelphia,PA,19135.0,3.5,https://storage.googleapis.com/2024capstone51/photos/Kp4WZtGsjw_P_7idsSPX4w.jpg,New Content
+271,5t5MVTVWqPrQkyzsRLlsYQ,Tio Mexican Restaurant,550 Kimberton Rd,Phoenixville,PA,19460.0,3.0,https://storage.googleapis.com/2024capstone51/photos/missing.jpg,New Content
+272,3zEedfqHtCrQEUsmPsDNsA,$5 Fresh Burger Stop,2100 W Oregon Ave,Philadelphia,PA,19145.0,5.0,https://storage.googleapis.com/2024capstone51/photos/missing.jpg,New Content
+273,6JGcIOiZFOcYon4_lDZA_Q,Not Just Crab,825 Baltimore Pike,Springfield,PA,19064.0,4.0,https://storage.googleapis.com/2024capstone51/photos/missing.jpg,New Content
+274,83Fw7PpQR9GY-IEokD7mmg,1201 Bar,1201 S 28th St,Philadelphia,PA,19146.0,3.5,https://storage.googleapis.com/2024capstone51/photos/missing.jpg,New Content
+275,6O4vBZKVa0006OWRgZd3OA,China Gourmet,"200 N Route 73, Unit 7",West Berlin,NJ,8091.0,3.0,https://storage.googleapis.com/2024capstone51/photos/missing.jpg,New Content
+276,BDJe5GnHM__g0YyfZS3DkQ,Five Star Restaurant,6667 Germantown Ave,Philadelphia,PA,19119.0,4.0,https://storage.googleapis.com/2024capstone51/photos/missing.jpg,New Content
+277,X_VJmXGiV6NqPwCrqjwPyw,Nathan's Famous,2955 Market St,Philadelphia,PA,19104.0,1.5,https://storage.googleapis.com/2024capstone51/photos/missing.jpg,New Content
+278,WixiQugMjFgCF_MBN8YSzg,Smoked and Chopped,3300 Fairmount Ave,Philadelphia,PA,19104.0,4.0,https://storage.googleapis.com/2024capstone51/photos/QU90vs29mVNddpZKxOd7hg.jpg,New Content
+279,c0knN2GfCb8sde71S4ln2Q,Little Morocco,"1431 W Passyunk Ave, 1f",Philadelphia,PA,19145.0,4.0,https://storage.googleapis.com/2024capstone51/photos/missing.jpg,New Content
+280,5JeVyKa5BKdxRtQjVhyWIA,China One,"350 Scarlet Rd, Ste 17",Kennett Square,PA,19348.0,3.0,https://storage.googleapis.com/2024capstone51/photos/missing.jpg,New Content
+281,9yhny3ODCDOAmMrNIOGJtg,Wawa,1244 Bristol Pk,Morrisville,PA,19067.0,3.5,https://storage.googleapis.com/2024capstone51/photos/missing.jpg,New Content
+282,_nAia3uEN704zIbutl2A9A,Bei Jing,7101 B Marshall Rd,Upper Darby,PA,19082.0,3.5,https://storage.googleapis.com/2024capstone51/photos/missing.jpg,New Content
+283,SmoEzF8pka2rCG_HgE21zw,Dunkin',10050 Roosevelt Blvd,Philadelphia,PA,19116.0,2.5,https://storage.googleapis.com/2024capstone51/photos/yTDrzq4OVALpt520ERsK9w.jpg,New Content
+284,EnS65S7FVGX_JOCieJL7uA,Curry Leaf Indian Cuisine 2,18 Berlin Rd,Clementon,NJ,8021.0,4.0,https://storage.googleapis.com/2024capstone51/photos/Lzr8IoK238REMZ-hG3cCDg.jpg,New Content
+285,oaQvTZjPJLN9OmQ8QOzO6A,Springfield Pizza,156 Saxer Ave,Springfield,PA,19064.0,5.0,https://storage.googleapis.com/2024capstone51/photos/missing.jpg,New Content
+286,Hx7GFPYqTL6Ws11UJZZwBQ,Wawa,1083 East Lancaster Ave,Downingtown,PA,19335.0,3.5,https://storage.googleapis.com/2024capstone51/photos/missing.jpg,New Content
+287,iQ4X94AQ9-Mj-ZiGwvEhdw,Dairy Queen,538 Kimberton Rd,Phoenixville,PA,19460.0,2.5,https://storage.googleapis.com/2024capstone51/photos/missing.jpg,New Content
+288,FLxLJ4DzXRgsQSUpwe5Q1g,The Rooster Diner,8 S New Middletown Rd,Media,PA,19063.0,4.5,https://storage.googleapis.com/2024capstone51/photos/missing.jpg,New Content
+289,ZhYvIknXbB5P4dy6ZO-LoA,The Union House,19 E Union St,Burlington,NJ,8016.0,4.0,https://storage.googleapis.com/2024capstone51/photos/yVbKP0Jr21VC8eX0UbwhnA.jpg,New Content
+290,-_mCgBtlEGbzbTsjnuXm3Q,Little Caesars Pizza,5207 Walnut St,Philadelphia,PA,19139.0,2.0,https://storage.googleapis.com/2024capstone51/photos/missing.jpg,New Content
+291,hH5J-JyOWUjDvCrXBwr2Wg,Mulrooney's Tavern,201 New Rd,Wilmington,DE,19805.0,4.0,https://storage.googleapis.com/2024capstone51/photos/missing.jpg,New Content
+292,p8XlrG4bn8zkEZBJTendLA,FoodChasers Kitchen,7852 Montgomery Ave,Elkins Park,PA,19027.0,5.0,https://storage.googleapis.com/2024capstone51/photos/missing.jpg,New Content
+293,usp2gEf_Y2Uf4bxIxET1_g,Geno's Steaks,1100 Pattison Ave,Philadelphia,PA,19148.0,1.0,https://storage.googleapis.com/2024capstone51/photos/missing.jpg,New Content
+294,27Za9Rl4nmXK6vfEf0Fv6A,Wawa,400 Nj-73,West Berlin,NJ,8009.0,3.0,https://storage.googleapis.com/2024capstone51/photos/missing.jpg,New Content
+295,knkbAti6oC4PFcxAMOHl1w,Dairy Queen,416 W Lincoln Hwy,Exton,PA,19341.0,1.5,https://storage.googleapis.com/2024capstone51/photos/missing.jpg,New Content
+296,ph54YN8EgbbDjJzW8agf2w,Wawa,"71 South Lakeview Dr, Ste A",Gibbsboro,NJ,8026.0,2.5,https://storage.googleapis.com/2024capstone51/photos/missing.jpg,New Content
+297,XbFRkhVgX3jggGxfAaZyuA,Wawa,3 N Macdade Blvd,Glenolden,PA,19036.0,3.0,https://storage.googleapis.com/2024capstone51/photos/missing.jpg,New Content
+298,HkMjKITEqy0-ekVmCEao0Q,Wawa,202 South State Rd,Upper Darby,PA,19082.0,2.5,https://storage.googleapis.com/2024capstone51/photos/missing.jpg,New Content
+299,peK2hGjbmMJOWlvAE59YPQ,Lefty's Irish Pub and Restaurant,1021 Market St,Marcus Hook,PA,19061.0,4.5,https://storage.googleapis.com/2024capstone51/photos/missing.jpg,New Content
+300,qrj59uv5by9NUCzLOpeSHQ,New Station Pizza 8,2206 W Hunting Park Ave,Philadelphia,PA,19140.0,2.5,https://storage.googleapis.com/2024capstone51/photos/missing.jpg,New Content
+301,_8QkK3WwGxNnn54Q1VTTcA,Leneghan's Crusader Inn,7412 Frankford Ave,Philadelphia,PA,19136.0,5.0,https://storage.googleapis.com/2024capstone51/photos/missing.jpg,New Content
+302,PQaHCaL-EUtWmTiejAQ30Q,Subway,2376 Street Rd,Bensalem,PA,19020.0,2.5,https://storage.googleapis.com/2024capstone51/photos/missing.jpg,New Content
+303,yU3PkQSwvgWU6pMfEBbmzQ,Bravo Seafood,3742 Germantown Ave,Philadelphia,PA,19140.0,3.5,https://storage.googleapis.com/2024capstone51/photos/missing.jpg,New Content
+304,nTTHx6yjubwMsClRSPimuA,Goldie,1601 N Front St,Philadelphia,PA,19122.0,4.5,https://storage.googleapis.com/2024capstone51/photos/3dSuX_6hcWyAYLGTmopd5w.jpg,New Content
+305,LIhxh7smKaSnc0MxF9KAwQ,Swedeland Volunteer Fire Company,609 A St,Swedeland,PA,19406.0,4.0,https://storage.googleapis.com/2024capstone51/photos/missing.jpg,New Content
+306,timmWUfeZ0ES0-mGnY5E2g,Park Café,2510 W 5th St,Wilmington,DE,19805.0,5.0,https://storage.googleapis.com/2024capstone51/photos/E30RnO-uIYZkvD6L4mnecg.jpg,New Content
+307,KO8GkU3J9W18hMR5Jn7t7g,Dunkin',257 Wilmington W. Chester Pike,Chadds Ford,PA,19317.0,4.0,https://storage.googleapis.com/2024capstone51/photos/bv_WPagtmDC4UgDyYzVFjQ.jpg,New Content
+308,5CNmglbq_YAAbu7Fsy4PKw,Joey D's on Main,1100 E Ridge Pike,Norristown,PA,19401.0,5.0,https://storage.googleapis.com/2024capstone51/photos/missing.jpg,New Content
+309,7Bq927oiZRlEVMqQSNR0Lg,McDonald's,3137 N Broad St,Philadelphia,PA,19132.0,2.0,https://storage.googleapis.com/2024capstone51/photos/missing.jpg,New Content
+310,Iyml-SRyWR_nY_r76wepRw,Old City District,231 Market St,Philadelphia,PA,19106.0,4.0,https://storage.googleapis.com/2024capstone51/photos/missing.jpg,New Content
+311,YfYmMthhVnn5mGUAYFnZZw,Avocado Fiesta Restaurant,134 E Park Ave,Merchantville,NJ,8109.0,5.0,https://storage.googleapis.com/2024capstone51/photos/ovKJDaE96chUdnIvPgja3Q.jpg,New Content
+312,KyRjvo1p7pQlyRsGHKOUHg,Papa John's Pizza,222 Lantana Drive,Hockessin,DE,19707.0,3.0,https://storage.googleapis.com/2024capstone51/photos/JJ-5jzvpJbTmaOMHIJ687g.jpg,New Content
+313,iCRYX4-coR7GYFtyy8qAnA,M&G Deli,100 S 60th St,Philadelphia,PA,19139.0,4.0,https://storage.googleapis.com/2024capstone51/photos/missing.jpg,New Content
+314,_ID5OUL42plmejjTAr-CzQ,Ajw Jamaican and American Food,4507 N Broad St,Philadelphia,PA,19140.0,2.0,https://storage.googleapis.com/2024capstone51/photos/missing.jpg,New Content
+315,QnAhrSePleZX_Tof5CR3hg,Checkers,1503 N. Dupont Hwy.,New Castle,DE,19720.0,2.0,https://storage.googleapis.com/2024capstone51/photos/-yjJAIJgeLqYvKtzyWsJ8g.jpg,New Content
+316,Lm_X0V92JQuV20wDZLbj7A,Corrado's Pizza,351 W Schuylkill Rd,Pottstown,PA,19464.0,4.5,https://storage.googleapis.com/2024capstone51/photos/missing.jpg,New Content
+317,rvz1I1whB8zG_BH0TIMMow,Lil Sum Sum,1069 Germantown Ave,Philadelphia,PA,19123.0,3.5,https://storage.googleapis.com/2024capstone51/photos/missing.jpg,New Content
+318,VmseesakN--_oCxGz43m5Q,Catador Lounge,965 New York Ave,Trenton,NJ,8638.0,4.0,https://storage.googleapis.com/2024capstone51/photos/missing.jpg,New Content
+319,JdCQ3DPoKwSBjB0RcC6Q6A,Rita's Italian Ice,309 E Philadelphia Ave,Boyertown,PA,19512.0,5.0,https://storage.googleapis.com/2024capstone51/photos/missing.jpg,New Content
+320,jsEo_iMOgULB7w8zGfRJeA,Mokas Mediterranean Restaurant,3505 Lancaster Ave,Philadelphia,PA,19104.0,2.5,https://storage.googleapis.com/2024capstone51/photos/missing.jpg,New Content
+321,07LPxCT59Gwg57tmzQdirg,Quick & Quality,4836 Spruce St,Philadelphia,PA,19139.0,4.0,https://storage.googleapis.com/2024capstone51/photos/missing.jpg,New Content
+322,picPFi6JAQ6VDQUCOqftmQ,Pennsport Market & Deli,1425 E Moyamensing Ave,Philadelphia,PA,19147.0,2.5,https://storage.googleapis.com/2024capstone51/photos/missing.jpg,New Content
+323,YRxj9aCXRh-6VtglcNschg,Coffee Corner,Broadway & Market,Gloucester City,NJ,8030.0,5.0,https://storage.googleapis.com/2024capstone51/photos/missing.jpg,New Content
+324,MFidfzESn-oER7ve9mTX0g,The Great Wall,305 S Broadway,Camden,NJ,8103.0,4.5,https://storage.googleapis.com/2024capstone51/photos/missing.jpg,New Content
+325,BFGaIlSqn-F-dtkSThC3Cg,Pike's Pub,455 2nd St Pike,Southampton,PA,18966.0,4.0,https://storage.googleapis.com/2024capstone51/photos/missing.jpg,New Content
+326,jsk68Xu_iNWn3oGP3BDyKg,Wawa,856 Mantua Pk,Woodbury Heights,NJ,8097.0,3.5,https://storage.googleapis.com/2024capstone51/photos/missing.jpg,New Content
+327,kujydgFuWhlyEE0gYF6VxA,China Kitchen,"240 Van Sciver Pkwy, Ste 2",Willingboro,NJ,8046.0,2.5,https://storage.googleapis.com/2024capstone51/photos/missing.jpg,New Content
+328,Y7heoil4m3fGzu88Up8VXw,Sloc's Grille,1675 Pennington Rd,Ewing Township,NJ,8618.0,4.0,https://storage.googleapis.com/2024capstone51/photos/missing.jpg,New Content
+329,rDNXWP86KQj13D4aBT8YJQ,Philly Pretzel Factory,5022-24 City Ave,Philadelphia,PA,19131.0,1.0,https://storage.googleapis.com/2024capstone51/photos/missing.jpg,New Content
+330,oymDWfZeBZEuSLY0kAIbXw,Town & Country Golf Links,197 East Ave,Woodstown,NJ,8098.0,5.0,https://storage.googleapis.com/2024capstone51/photos/missing.jpg,New Content
+331,iAkvjDIcRmBsC5lZgqiSVw,Jimmy Davis Catering,943 South High St,West Chester,PA,19382.0,4.0,https://storage.googleapis.com/2024capstone51/photos/missing.jpg,New Content
+332,gWDeSVOZh8ThPMU2G9dAtg,Helen's Cafe and Gardens,450 Telegraph Rd,Alloway,NJ,8001.0,4.0,https://storage.googleapis.com/2024capstone51/photos/missing.jpg,New Content
+333,TB9Oi-HliFy7yycFFzvm9w,Taqueria Rojas,3616 Kirkwood Hwy,Wilmington,DE,19808.0,3.0,https://storage.googleapis.com/2024capstone51/photos/missing.jpg,New Content
+334,xByz2KVNOKmwBbHxabjsKQ,Larose Jazz Club,5531 Germantown Ave,Philadelphia,PA,19144.0,3.5,https://storage.googleapis.com/2024capstone51/photos/7f6qrYBvQ0m1y3GoDZQOwQ.jpg,New Content
+335,4dlSOdSHVFhj9QGTjoPIbg,George's Fish & Fries,411 Township Line Rd,Abington,PA,19027.0,3.0,https://storage.googleapis.com/2024capstone51/photos/missing.jpg,New Content
+336,zQZTipbo2V0VAKUAemHc3A,Grab -N- Go Bagel & Deli,1469 Nottingham Way,Hamilton Township,NJ,8609.0,3.0,https://storage.googleapis.com/2024capstone51/photos/missing.jpg,New Content
+337,QNoDyRjQTmt2Pt1K4xHW3Q,Wade's,807 W Newport Pike,Wilmington,DE,19804.0,4.5,https://storage.googleapis.com/2024capstone51/photos/missing.jpg,New Content
+338,fdz-oygJtfawEhjar38pzQ,Dan Madrigale's Deli & Meats,4220 E Bristol Rd,Trevose,PA,19053.0,4.0,https://storage.googleapis.com/2024capstone51/photos/missing.jpg,New Content
+339,bFim0L7n2-ffAVPrFxeKFQ,Mario's Pizza,31 Marchwood Rd,Exton,PA,19341.0,3.5,https://storage.googleapis.com/2024capstone51/photos/missing.jpg,New Content
+340,l920q9aMfPWJ0Jq11rkfkQ,Chick-fil-A,301 White Horse Pike,Barrington,NJ,8007.0,5.0,https://storage.googleapis.com/2024capstone51/photos/missing.jpg,New Content
+341,OV2gDDTGX7ObyK6X1zrD7w,Wawa,720 South Church Rd,Mount Laurel,NJ,8054.0,3.0,https://storage.googleapis.com/2024capstone51/photos/missing.jpg,New Content
+342,JZC1rJ6UmpNteyWM5dsMxg,Black Pearl BBQ,42nd & Market St,Philadelphia,PA,19139.0,4.0,https://storage.googleapis.com/2024capstone51/photos/GfDK4ZVkqw_i1yzkeFsPYw.jpg,New Content
+343,NvYuwaYrepK8eYvLXF9haQ,Opa Gyros Berlin,41 Clementon Rd,Berlin,NJ,8009.0,5.0,https://storage.googleapis.com/2024capstone51/photos/missing.jpg,New Content
+344,CZh7ag6mlr-4AMNkiEzHRg,Krispy Krunchy Chicken Pizza Grill,1504 Philadelphia Pike,Wilmington,DE,19809.0,4.0,https://storage.googleapis.com/2024capstone51/photos/Etwxov_ZOhmwprmEPZHIcQ.jpg,New Content
+345,TixHUGfL3corg4xYQBVtQg,Sun Island Bar-Bq & Jerk Jamaican Restaurant - Coming Soon,34 US-130,Burlington,NJ,8016.0,2.0,https://storage.googleapis.com/2024capstone51/photos/missing.jpg,New Content
+346,aQNDJ0WyuJZK-ZwkZqJq4g,Rays Market,307 North King St,Wilmington,DE,19801.0,3.0,https://storage.googleapis.com/2024capstone51/photos/missing.jpg,New Content
+347,z00F0RSAGimvSU9IrTevOw,McDonald's,3010 New Castle Ave,New Castle,DE,19720.0,1.0,https://storage.googleapis.com/2024capstone51/photos/oj1BZTVb_z4xcmHQENHGiQ.jpg,New Content
+348,4E2hkk2vPvkQgTUUv3RG6w,Loch Nairn Golf Club,RR 1,Toughkenamon,PA,19374.0,3.5,https://storage.googleapis.com/2024capstone51/photos/missing.jpg,New Content
+349,TNhfrd9b7l7_vdFXwebNmg,Chasers,1874 Delmar Dr,Folcroft,PA,19032.0,4.0,https://storage.googleapis.com/2024capstone51/photos/missing.jpg,New Content
+350,VnAJnVpXHOIBdg6qFJBc3g,Nories Lunch Box,1600 Haddon Ave,Camden,NJ,8103.0,1.5,https://storage.googleapis.com/2024capstone51/photos/missing.jpg,New Content
+351,BEuGzy5gxtGyOEk8iwDfTg,Kaku Latin Food,3300 Memphis St,Philadelphia,PA,19134.0,5.0,https://storage.googleapis.com/2024capstone51/photos/missing.jpg,New Content
+352,An0Y9T29wX3QS7iSs1qteQ,Buenos Dias Cafe Restaurant,9 Church St,Lambertville,NJ,8530.0,4.0,https://storage.googleapis.com/2024capstone51/photos/missing.jpg,New Content
+353,lxuRSOi2RCW2yu0HT7GBEQ,Krispy Krunchy Chicken,3000 N Market St,Wilmington,DE,19802.0,4.0,https://storage.googleapis.com/2024capstone51/photos/nEvFqjAvRRA10hy_8ke2fA.jpg,New Content
+354,qU_CC7nJ-rOfCusuapOW8g,Lucky Restaurant,810 W Girard Ave,Philadelphia,PA,19123.0,4.0,https://storage.googleapis.com/2024capstone51/photos/missing.jpg,New Content
+355,7UFRDoDdwC3_Pt77FzaJfg,Brew Haha!,222 Delaware Ave,Wilmington,DE,19801.0,4.0,https://storage.googleapis.com/2024capstone51/photos/9g9IshVEExNAG2YjBqR-ng.jpg,New Content
+356,Nj3tEe9UtEa7SyGunl7Y6g,Fueling Station,"224 S Broad St, Fl 8",Philadelphia,PA,19102.0,3.0,https://storage.googleapis.com/2024capstone51/photos/missing.jpg,New Content
+357,b2yXT7DmVD-SL9S_LwCuYA,Akbar restaurant and Banquet Hall,3180 Grant Ave,Philadelphia,PA,19114.0,4.0,https://storage.googleapis.com/2024capstone51/photos/missing.jpg,New Content
+358,k_mIcCFvXWuN8I4ofCta3g,KFC,4001 N 5th St,Philadelphia,PA,19140.0,1.0,https://storage.googleapis.com/2024capstone51/photos/pj3fpMz1pr3DK_HKjo_CeQ.jpg,New Content
+359,5M3AWxHBAJn6ET3AtBzmDw,Brazilian Pizza Philly,7518 Castor Ave,Philadelphia,PA,19152.0,4.0,https://storage.googleapis.com/2024capstone51/photos/xYkB0DtRVNf6HOsqztTvYQ.jpg,New Content
+360,8IDxxgg33jWJ7IFDmZvjyQ,Carriage House Restaurant & Bar,943 S High St,West Chester,PA,19382.0,2.0,https://storage.googleapis.com/2024capstone51/photos/missing.jpg,New Content
+361,7uMwPg2lmF_KscKo9lFCwQ,American Express century and lounge,,Philadelphia,PA,19132.0,5.0,https://storage.googleapis.com/2024capstone51/photos/Yl4tOSnmz3p2T3OLYA25gg.jpg,New Content
+362,Db-zoswXyyBz7CjXW12Dtg,Jamrock Kitchen,502 N 63rd St,Philadelphia,PA,19151.0,3.5,https://storage.googleapis.com/2024capstone51/photos/missing.jpg,New Content
+363,5tq8E5TtZi1eq3EbP42aWw,Wawa,195 Saxer Ave,Springfield,PA,19064.0,4.0,https://storage.googleapis.com/2024capstone51/photos/missing.jpg,New Content
+364,1ZafwEsM1pyE4z63SW81hw,Po-Po No 1 Chinese Restaurant,8 N Broad St,Trenton,NJ,8608.0,2.5,https://storage.googleapis.com/2024capstone51/photos/missing.jpg,New Content
+365,6ouCIWnJvZtckH_tWMyPOA,In and Out Express Food Market,808 S York Rd,Hatboro,PA,19040.0,5.0,https://storage.googleapis.com/2024capstone51/photos/8X7ahBEXhZUjTPirKmvqCQ.jpg,New Content
+366,lK8ExfCP4xsmInhmhCFPew,Aloha Poke,26 High St E,Glassboro,NJ,8028.0,4.0,https://storage.googleapis.com/2024capstone51/photos/missing.jpg,New Content
+367,OfRbGvHn-nAnQMqNxiIpcA,Grilly Cheese,3306 Arch St,Philadelphia,PA,19104.0,3.0,https://storage.googleapis.com/2024capstone51/photos/missing.jpg,New Content
+368,2dVJ7R-3JMmu2v4DJYtBbw,Spring Mount Hotel,3 Main St,Schwenksville,PA,19473.0,2.0,https://storage.googleapis.com/2024capstone51/photos/missing.jpg,New Content
+369,Wko0HNelt55ZIp3Dm3eD2g,Swiss Farms Store,600 Baltimore Pike,Springfield,PA,19064.0,3.5,https://storage.googleapis.com/2024capstone51/photos/2ZE59qhoJpB1VAWSo0KC4w.jpg,New Content
+370,4oI4ikLPM6yDyw0QUrv53Q,Dunkin',5007 Bristol Pike,Bristol,PA,19007.0,2.5,https://storage.googleapis.com/2024capstone51/photos/wXyLs8pMOPVSdi8m4COy7w.jpg,New Content
+371,X_X60vlWlPLWcW97LPrSjw,7-Eleven,1912 Liacouras Walk,Philadelphia,PA,19122.0,4.0,https://storage.googleapis.com/2024capstone51/photos/missing.jpg,New Content
+372,BtXwqcJq0xS607Hsq5Wq1A,Starbucks,132 Christiana Mall,Newark,DE,19702.0,2.0,https://storage.googleapis.com/2024capstone51/photos/q-wOnsTQhV777v22wdPtyg.jpg,New Content
+373,GabL6KPmrPirzYWiQ9LtBg,Dunkin',5005 N Crescent Blvd,Pennsauken,NJ,8110.0,2.5,https://storage.googleapis.com/2024capstone51/photos/GHm51n8l-OdekjJTPCGuRg.jpg,New Content
+374,dbfm8H0KQRrxT_QSXrQZ-A,Darnel’s Cakes,444 N 3rd St,Philadelphia,PA,19123.0,4.0,https://storage.googleapis.com/2024capstone51/photos/missing.jpg,New Content
+375,xr6tLZ6MMyBmOr8EGVAWQw,7-Eleven,1003 E Willow Grove Ave,Glenside,PA,19038.0,3.5,https://storage.googleapis.com/2024capstone51/photos/missing.jpg,New Content
+376,ht8lG0gs4-ddM7ap3wwIaA,Dunkin',1829 E Allegheny Ave,Philadelphia,PA,19134.0,2.5,https://storage.googleapis.com/2024capstone51/photos/5p1OCfTsIMNbopkDyt_AAg.jpg,New Content
+377,E5QDrZPan50Rd7jWcaFyfg,Starbucks,48 West Rd,Newtown,PA,18940.0,4.0,https://storage.googleapis.com/2024capstone51/photos/UUiA1Myrg5pFqIGYo0kftg.jpg,New Content
+378,0xmV6WSKyq0SFUa_uZKocw,Starbucks,1002 S Broad St,Philadelphia,PA,19146.0,3.5,https://storage.googleapis.com/2024capstone51/photos/FQRpUOE1Gzc1aZyaWtcpUQ.jpg,New Content
+379,uKEZQ_j3B8kMd-ThoGZDYQ,Dunkin',6110 Woodland Ave,Philadelphia,PA,19142.0,1.5,https://storage.googleapis.com/2024capstone51/photos/z-wVSTSI8deCh-s1zIGj8g.jpg,New Content
+380,bFQ4ikRVhPDHUyi6n5jLag,7-Eleven,316 W Cuthbert Blvd,Westmont,NJ,8108.0,3.0,https://storage.googleapis.com/2024capstone51/photos/missing.jpg,New Content
+381,Zj191m1XJiv7u_7jQZlBeg,Reanimator Coffee,3118 Richmond St,Philadelphia,PA,19134.0,4.0,https://storage.googleapis.com/2024capstone51/photos/missing.jpg,New Content
+382,UoNpmrih4LnzGTZCqltIDQ,Amsterdam Coffee Bar,"5667 York Rd, Ste 7",New Hope,PA,18938.0,5.0,https://storage.googleapis.com/2024capstone51/photos/missing.jpg,New Content
+383,xf4hdY-izcbyzcYTOUy2Rg,Dunkin',1111 Route 322,Swedesboro,NJ,8085.0,1.0,https://storage.googleapis.com/2024capstone51/photos/sEYfXBYURPi8jZl_h5Uh1A.jpg,New Content
+384,_BCDwsB-WFrFTzbOjbtavg,7-Eleven,2100 Pennington Rd,Trenton,NJ,8638.0,3.5,https://storage.googleapis.com/2024capstone51/photos/missing.jpg,New Content
+385,2GligoW65tr0PY0NE72WSQ,Endgrain Coffee Roasters,13 Fern Ave,Collingswood,NJ,8108.0,4.5,https://storage.googleapis.com/2024capstone51/photos/missing.jpg,New Content
+386,W3XUQEn7v84t_6uz829ATw,Dunkin',9900 Frankford Ave,Philadelphia,PA,19114.0,3.5,https://storage.googleapis.com/2024capstone51/photos/5ormJz0fAsqFIoSMb9W4Pg.jpg,New Content
+387,bDgmtVzsDOE0hhX0q8YAKQ,Speedway,1295 Hurffville Rd,Deptford Twp,NJ,8096.0,2.0,https://storage.googleapis.com/2024capstone51/photos/missing.jpg,New Content
+388,ol6Z_mQyAEKI3bW4Cd01sA,7-Eleven,917 Filbert Ave,Philadelphia,PA,19107.0,2.0,https://storage.googleapis.com/2024capstone51/photos/missing.jpg,New Content
+389,VjDJV7FrrgRnOauV86NTYw,Starbucks,1735 Sumneytown Pike,Landsdale,PA,19446.0,3.5,https://storage.googleapis.com/2024capstone51/photos/EQqC7ZbOh6jXeQPSvP7S5A.jpg,New Content
+390,D-Up4cSxOOnmzowXfkI4Fw,Dunkin',275 Parkway Avenue,Trenton,NJ,8618.0,2.0,https://storage.googleapis.com/2024capstone51/photos/X9PTTTfPCWclcHAptQlthQ.jpg,New Content
+391,FVcIeaJY8vTnt9AksAVFaw,Dunkin',2015 Rte 322,Woolwich Township,NJ,8085.0,2.5,https://storage.googleapis.com/2024capstone51/photos/BAuE81LkQAlvcmG3Y-ULyg.jpg,New Content
+392,Iy5NjdEmvreKhE43k5nV1g,7-Eleven,"1835 Arch St, Space B",Philadelphia,PA,19103.0,2.0,https://storage.googleapis.com/2024capstone51/photos/missing.jpg,New Content
+393,_birKQtizyWql9P14Vw8aA,Eastampton Nutrition,"1307 Woodlane Rd, Ste 8",Eastampton Township,NJ,8060.0,4.0,https://storage.googleapis.com/2024capstone51/photos/3pFGlWnB8GeFDnClozM99g.jpg,New Content
+394,b_NJFKY3vWv4VC8fPSGO1g,Quick Chek,1100 South Olden Ave,Trenton,NJ,8610.0,2.0,https://storage.googleapis.com/2024capstone51/photos/missing.jpg,New Content
+395,4g5Jkyj-bJdFuo7PkMhO_Q,Starbucks,1050 Brandywine Pkwy,Wilmington,DE,19803.0,2.5,https://storage.googleapis.com/2024capstone51/photos/missing.jpg,New Content
+396,fwsPPYt0By1ivuXSXv3wlg,Dunkin',5272 Frankford Ave,Philadelphia,PA,19124.0,3.0,https://storage.googleapis.com/2024capstone51/photos/vZ2KAlYTf2hPQjrvZwPNUA.jpg,New Content
+397,t4Wdgfto05xRBd_ggd5T7g,Dunkin',1159 Veterans Highway,Bristol,PA,19007.0,1.0,https://storage.googleapis.com/2024capstone51/photos/zYEFocFqKLplC1fhyyNDDA.jpg,New Content
+398,HgfwFlwjBpP3uGAFMKFXeg,7-Eleven,143 W Eagle Rd,Havertown,PA,19083.0,3.0,https://storage.googleapis.com/2024capstone51/photos/missing.jpg,New Content
+399,jv2Wc3-j8Q225eRgq2JLvA,7-Eleven,501 Church Ln,Yeadon,PA,19050.0,3.5,https://storage.googleapis.com/2024capstone51/photos/missing.jpg,New Content
+400,6BYBoDOsxYQMTHFTD3L1mQ,Dunkin',100 Springside Rancocas Rd,Westampton,NJ,8060.0,2.0,https://storage.googleapis.com/2024capstone51/photos/oTsA93hKoFlrgdYdDbpMXw.jpg,New Content
+401,6tgrhfz8XsTH2ItEShoohA,Starbucks,8000 Essington Ave,Philadelphia,PA,19153.0,3.0,https://storage.googleapis.com/2024capstone51/photos/Aheo_6pIcLMyGbl0vntveA.jpg,New Content
+402,WQu3uaCOoBsJFCrv-RvBNg,Dunkin',1 Circle Dr,Zieglerville,PA,19492.0,1.0,https://storage.googleapis.com/2024capstone51/photos/yNtl_e1kf8UXhE34_lxsew.jpg,New Content
+403,GvlQw5zpaCLBY0pW4pm4_A,Tiger Sugar,6201 N Front St,Philadelphia,PA,19120.0,4.5,https://storage.googleapis.com/2024capstone51/photos/WjFK0YNh8cRGw-nxXrJReQ.jpg,New Content
+404,jcwBfwL68BgGSlKf1t0yNA,Spices & Such,875 Main St,Pennsburg,PA,18073.0,5.0,https://storage.googleapis.com/2024capstone51/photos/missing.jpg,New Content
+405,36rXK3hy6OR0k-tMBf1Ltw,Starbucks,1 S 15th St,Philadelphia,PA,19102.0,1.5,https://storage.googleapis.com/2024capstone51/photos/j2nGjO-RPJmPCeIozAHCvQ.jpg,New Content
+406,Px-U9DtzGY3sU6YvAt428Q,Barnes & Noble @ Temple University Law School,1700 North Broad St,Philadelphia,PA,19121.0,2.0,https://storage.googleapis.com/2024capstone51/photos/missing.jpg,New Content
+407,JgvV_xEGu32N1qWe0bEGow,The Tricycle Cafe & Bikes,1 Station Ave,Conshohocken,PA,19428.0,4.5,https://storage.googleapis.com/2024capstone51/photos/missing.jpg,New Content
+408,skzs_McPObYVqUUzXK-E7A,Philadelphia Provision,75 S White Horse Pike,Stratford,NJ,8084.0,3.5,https://storage.googleapis.com/2024capstone51/photos/ko4o7MhcwQwTm1mU2hX_pQ.jpg,New Content
+409,xYiFhIxwluJ_qYIyScWufA,Dunkin',1500 Market Street Concourse,Philadelphia,PA,19102.0,2.0,https://storage.googleapis.com/2024capstone51/photos/YCm2IfJFdaJBM7AEAvVjVg.jpg,New Content
+410,hDpXh2boLl6JCP3pt-XupQ,Paris Baguette,6201 N Front St,Philadelphia,PA,19120.0,3.5,https://storage.googleapis.com/2024capstone51/photos/flLeMKlZCdwmla_kFiwWqw.jpg,New Content
+411,0-fNOKL8IQBVe97Xx593KA,Sunrise Cafe And Bake Shop,816 DeKalb St,Bridgeport,PA,19405.0,4.5,https://storage.googleapis.com/2024capstone51/photos/missing.jpg,New Content
+412,WzMfMJKOpN0j21DvXC-g6Q,7-Eleven,100 S Sycamore St,Newtown,PA,18940.0,2.5,https://storage.googleapis.com/2024capstone51/photos/missing.jpg,New Content
+413,L0sPQtAKX2V8HDCw5Yn9UA,Dunkin',1301 Bristol Pike,Bensalem,PA,19020.0,3.5,https://storage.googleapis.com/2024capstone51/photos/S-74tsfBb9FD2uy5mdzqpw.jpg,New Content
+414,ca84zCcwO52EgYChKTseLw,Dunkin',2043 Rte 130,Florence,NJ,8518.0,2.5,https://storage.googleapis.com/2024capstone51/photos/KxnqdlCS1WNnvQeTT051WQ.jpg,New Content
+415,6fJcHm3dNTBILsa646nZBQ,Dunkin',1901 Deptford Center Rd,Deptford,NJ,8096.0,4.0,https://storage.googleapis.com/2024capstone51/photos/08IEbf8nb3djdOgK9QDAEw.jpg,New Content
+416,8xV1PeAKQ64uJUTrqqe34g,The Coffee Scoop,189470000 Plumstead,Pipersville,PA,18947.0,5.0,https://storage.googleapis.com/2024capstone51/photos/missing.jpg,New Content
+417,aP_1cPI9DflkfaTSSxakAg,Break Time Cafe,1222 Welsh Rd,North Wales,PA,19454.0,3.5,https://storage.googleapis.com/2024capstone51/photos/missing.jpg,New Content
+418,QCKYU9YTxa0cLXXedYuxGA,7-Eleven,1811 Chapel Ave,Cherry Hill,NJ,8002.0,4.0,https://storage.googleapis.com/2024capstone51/photos/missing.jpg,New Content
+419,FBf4fTg9BZrDYxCWTUfdFQ,Healthy Blend Cafe,609 Cross Keys Rd,Sicklerville,NJ,8081.0,3.0,https://storage.googleapis.com/2024capstone51/photos/missing.jpg,New Content
+420,SczLxo7EPukLqteIJ_c7OA,Three Elements,2501 N 2nd St,Philadelphia,PA,19133.0,4.5,https://storage.googleapis.com/2024capstone51/photos/missing.jpg,New Content
+421,wLqMLEOEtDSpYl9so6Yf8g,Sabel's Gaslight Pub,3979 Ford Rd,Philadelphia,PA,19131.0,2.5,https://storage.googleapis.com/2024capstone51/photos/missing.jpg,New Content
+422,8N67RSzU7rQNAtkhmhZn2g,Black Diamond Lounge,"2001 College Dr, Ste 8 C",Clementon,NJ,8021.0,4.0,https://storage.googleapis.com/2024capstone51/photos/cpb4c6LXDs3etQqBwrHd4w.jpg,New Content
+423,U8VxjREJ705NTOYFtmG8rg,Ginny's Cookies & Cream,1750 Deptford Center Rd,Deptford Township,NJ,8096.0,3.5,https://storage.googleapis.com/2024capstone51/photos/missing.jpg,New Content
+424,HyRfEKWwO9IlAF2PTAzcYQ,Smoothie King,1011 West Chester Pike,West Chester,PA,19382.0,4.0,https://storage.googleapis.com/2024capstone51/photos/nFduJI6gvHjL2c6HsfKTaA.jpg,New Content
+425,4ze0PWrt_3t1TRYEcP1fIA,Publik House,1533 Route 38,Lumberton,NJ,8048.0,2.0,https://storage.googleapis.com/2024capstone51/photos/missing.jpg,New Content
+426,wx4NRIrzgtiVmHlQs5443Q,R Park Tavern,26 E. Sellers Avenue,Ridley Park,PA,19078.0,3.5,https://storage.googleapis.com/2024capstone51/photos/missing.jpg,New Content
+427,Gtsj1UxOCIaHILzU2szHiQ,Shack in the Back,326 Fayette St,Conshohocken,PA,19428.0,4.5,https://storage.googleapis.com/2024capstone51/photos/missing.jpg,New Content
+428,RzItdJ5AsZm-5tcmkrpR0w,Stubini's South,270 Shell Rd,Penns Grove,NJ,8069.0,3.5,https://storage.googleapis.com/2024capstone51/photos/PodQ8GTaslUe8re-H19P5A.jpg,New Content
+429,Lm1T39GS3O-VUND2X0EdIw,Mitchells Cafe,11 Church St,Lambertville,NJ,8530.0,4.0,https://storage.googleapis.com/2024capstone51/photos/pY48vdIF9HgpN1kU6dd6gA.jpg,New Content
+430,8UMtmoZXjhs0iWyW0nuGzA,Alex's Tavern,667 Egypt Rd,Phoenixville,PA,19460.0,4.5,https://storage.googleapis.com/2024capstone51/photos/missing.jpg,New Content
+431,dcI3vn6JqD9tXV7us1O_tQ,Got Wine?,483 Pond St,Bristol,PA,19007.0,5.0,https://storage.googleapis.com/2024capstone51/photos/missing.jpg,New Content
+432,cY4G5wyUuaHrkCiLNlsV8A,Planet RYO,"555 E Gay St, Ste 28",West Chester,PA,19380.0,4.5,https://storage.googleapis.com/2024capstone51/photos/missing.jpg,New Content
+433,XSYI71iqX7P7erVM0i8F5Q,McKenna's Pub,153 Snyder Ave,Philadelphia,PA,19148.0,4.5,https://storage.googleapis.com/2024capstone51/photos/missing.jpg,New Content
+434,Wlhj-XJKuvtzqJ6wBOxQvw,Main Street Cigars,7 S Main St,Medford,NJ,8055.0,4.0,https://storage.googleapis.com/2024capstone51/photos/QFcby-NrkVpfjkXm-I4XEA.jpg,New Content
+435,8YKdYABbqWVa6A8OLG20Kw,The Juice Pod Ambler,83 East Butler Ave,Ambler,PA,19002.0,5.0,https://storage.googleapis.com/2024capstone51/photos/D31fRCI-DdX7mHsR8wI9Nw.jpg,New Content
+436,9BGUIK6rcprILPyiyYnJyg,The Foto Club,3743 Frankford Ave,Philadelphia,PA,19124.0,4.5,https://storage.googleapis.com/2024capstone51/photos/SyuS0iKhdPBR1SsUJwilrw.jpg,New Content
+437,QB0NhiW--2rje9Fr1ek2eA,CP's Pub,5 Polly Drummond Shpg Ctr,Newark,DE,19711.0,2.5,https://storage.googleapis.com/2024capstone51/photos/missing.jpg,New Content
+438,OyEeoLyzAtyzqcvWdsUHaw,Paul's Tavern,2163 S White Horse Pike,Lindenwold,NJ,8021.0,4.0,https://storage.googleapis.com/2024capstone51/photos/missing.jpg,New Content
+439,gboUTyxfB_bcZaIACgT6cw,Route 2 Tavern,4305 Kirkwood Hwy,Wilmington,DE,19808.0,2.5,https://storage.googleapis.com/2024capstone51/photos/missing.jpg,New Content
+440,cVWTbFWji3C6T7r6mfCpNw,Stoltzfus Pennsylvania Dutch Foods,110 N Dupont Hwy,New Castle,DE,19720.0,5.0,https://storage.googleapis.com/2024capstone51/photos/missing.jpg,New Content
+441,fMdyrMKePEqS3mLnm2gn6Q,Charley B's Place II,6402 Stenton Ave,Philadelphia,PA,19150.0,2.5,https://storage.googleapis.com/2024capstone51/photos/missing.jpg,New Content
+442,rAVUidgccgIYoNom__pDHA,Willow Grove Beer Store,434 York Rd,Willow Grove,PA,19090.0,4.0,https://storage.googleapis.com/2024capstone51/photos/missing.jpg,New Content
+443,rYCj6O0Bh0llwgwIv-l6Mg,Burke's Inn,25 E Eagle Rd,Havertown,PA,19083.0,4.0,https://storage.googleapis.com/2024capstone51/photos/missing.jpg,New Content
+444,-EoaB87gPD41BM67j1fGCw,Cheerleaders Gentlemens Club,54 Crescent Blvd,Gloucester City,NJ,8030.0,2.5,https://storage.googleapis.com/2024capstone51/photos/itBHVtW22s7LuFbYUzchzA.jpg,New Content
+445,ze5ZPVR3zSoqsOP_tYAvdw,Mickey's Tavern,129 S State Rd,Upper Darby,PA,19082.0,4.0,https://storage.googleapis.com/2024capstone51/photos/missing.jpg,New Content
+446,-pHjNBWZigns6lCe_ddZJg,Häagen-Dazs,160 N Gulph Rd,King of Prussia,PA,19406.0,4.5,https://storage.googleapis.com/2024capstone51/photos/wR8ygXLdWbbpBXLXfD2Ang.jpg,New Content
+447,0_DvJq6ywKf6qpiassAGqw,Stokes Sports Bar,2651 S 16th St,Philadelphia,PA,19145.0,4.0,https://storage.googleapis.com/2024capstone51/photos/missing.jpg,New Content
+448,PW018VQnj2YSoL1S3yeJug,Archie's Big Heads,489 E County Line Rd,Hatboro,PA,19040.0,3.0,https://storage.googleapis.com/2024capstone51/photos/missing.jpg,New Content
+449,PeRlQ8ddfaN06LC8WZcYxw,Trophy Tavern,696 Burmont Rd,Upper Darby,PA,19026.0,2.0,https://storage.googleapis.com/2024capstone51/photos/missing.jpg,New Content
+450,D16ryUFpMZzMrvoruhSOvA,Hangover Sports Bar,"1254 W Chester Pike, Fl 2",Havertown,PA,19083.0,4.5,https://storage.googleapis.com/2024capstone51/photos/missing.jpg,New Content
+451,AuGJDBeJb6lwq734qfyDoA,Rauchut's Tavern,6501 Frankford Ave,Philadelphia,PA,19135.0,4.5,https://storage.googleapis.com/2024capstone51/photos/missing.jpg,New Content
+452,IbuP_D_bXRLN7FYSUL1ajg,Purple Orchid,3275 S 61st St,Philadelphia,PA,19153.0,2.5,https://storage.googleapis.com/2024capstone51/photos/missing.jpg,New Content
+453,6E0dKFrzWfP_-0goXy1ETw,Olde Indian Valley Inn,101 E Broad St,Souderton,PA,18964.0,3.0,https://storage.googleapis.com/2024capstone51/photos/missing.jpg,New Content
+454,qWb1QVT1cmRsq6D7s-ofcw,Pumptown Tavern,458 S Main St,Spring City,PA,19475.0,4.0,https://storage.googleapis.com/2024capstone51/photos/missing.jpg,New Content
+455,RXpzFmZYIR-FEeoPn5CDoQ,Copley's Cafe & Tavern,2029 Chichester Ave,Marcus Hook,PA,19061.0,3.5,https://storage.googleapis.com/2024capstone51/photos/missing.jpg,New Content
+456,jV5xo3OidGMJeygZ8neKNQ,ALDI,812 N Delsea Dr,Glassboro,NJ,8028.0,4.5,https://storage.googleapis.com/2024capstone51/photos/missing.jpg,New Content
+457,IivxWo0vU5Qmz-OqoCaXrg,Sunflower Truck Stop,1 Ashland St,Phoenixville,PA,19460.0,4.0,https://storage.googleapis.com/2024capstone51/photos/missing.jpg,New Content
+458,H7bMkwpEKgobq-bufNG5GA,Fine Wine & Good Spirits - Premium Collection,161 E Swedesford Rd,Wayne,PA,19087.0,2.5,https://storage.googleapis.com/2024capstone51/photos/gVfh8fCl_Re3QhvqFc2qtw.jpg,New Content
+459,20rAavCQ4C4DcpfxxNMX0A,Lidl,1150 Welsh Rd,Lansdale,PA,19446.0,4.0,https://storage.googleapis.com/2024capstone51/photos/OeBgAB2PG3SB23-I65YJdg.jpg,New Content
+460,xWWINr7sQLHdZaYP8UJWvQ,Traino's Wine & Spirits,"2999 E Evesham Rd, Ste 2",Voorhees,NJ,8043.0,3.5,https://storage.googleapis.com/2024capstone51/photos/missing.jpg,New Content
+461,H02LlxeevnMUEMttUJIxWA,Gertrude Hawk Chocolates,260 Exton Sq,Exton,PA,19341.0,3.0,https://storage.googleapis.com/2024capstone51/photos/missing.jpg,New Content
+462,ZnfGj6Nnkmq3wVeAj-UWJA,Walgreens,4575 New Linden Hill Rd,Wilmington,DE,19808.0,1.5,https://storage.googleapis.com/2024capstone51/photos/rjhU40CK2nFG7dU8FwsT1A.jpg,New Content
+463,Wog6stNQxE2lQI1slp7DSg,Associated Supermarket,6100 Westfield Ave,Pennsauken,NJ,8110.0,2.5,https://storage.googleapis.com/2024capstone51/photos/missing.jpg,New Content
+464,jQDXPPEfRlGiiH7kmRfM0w,ABV% Beverage,3421 Richmond St,Philadelphia,PA,19134.0,5.0,https://storage.googleapis.com/2024capstone51/photos/o6XOtJwQhF_zp1Gt77ZXBQ.jpg,New Content
+465,X0fyRuVS9wksrUha-3j5Gg,Salina Wine & Liquor,273 Egg Harbor Rd,Sewell,NJ,8080.0,4.5,https://storage.googleapis.com/2024capstone51/photos/missing.jpg,New Content
+466,oV7nQsD6m95ZsNk-ZLAj1A,Golden Beverage,122 N Flowers Mill Rd,Langhorne,PA,19047.0,3.5,https://storage.googleapis.com/2024capstone51/photos/missing.jpg,New Content
+467,TQaaqBvMzisryjayfX4XWQ,CVS Pharmacy,1450 Pottstown Pike,West Chester,PA,19380.0,2.0,https://storage.googleapis.com/2024capstone51/photos/ermL80_7UsMSgFXU14hOAw.jpg,New Content
+468,_5pcT_sQEZQ-0Rfc15j-QQ,Save A Lot,803 Blackwood Clementon Rd,Lindenwold,NJ,8021.0,3.0,https://storage.googleapis.com/2024capstone51/photos/missing.jpg,New Content
+469,3hFAXKo69x2om7z9OWG7kA,Cottman Beverage,7544 Frankford Ave,Philadelphia,PA,19136.0,3.0,https://storage.googleapis.com/2024capstone51/photos/missing.jpg,New Content
+470,4s3SWuzt0ceCca-iFuSTSQ,Jeffersonville Beverage,2500 W Main St,Norristown,PA,19403.0,4.0,https://storage.googleapis.com/2024capstone51/photos/missing.jpg,New Content
+471,dGg9ZDmOLGTmBIJFOeBhIQ,Roebling Town Market,1275 Hornberger Ave,Roebling,NJ,8554.0,4.0,https://storage.googleapis.com/2024capstone51/photos/missing.jpg,New Content
+472,Zkak6zxCokmPYt-BOmE6Fg,Chai Hong Market,2200 S 7th St,Philadelphia,PA,19148.0,4.0,https://storage.googleapis.com/2024capstone51/photos/missing.jpg,New Content
+473,qdbRNfuyIJr-GEpprbkizw,Giant Food Stores,225 Lancaster Ave,Malvern,PA,19355.0,3.5,https://storage.googleapis.com/2024capstone51/photos/missing.jpg,New Content
+474,YTxOgn-vquErIXTA97Lrlw,Tranquili Tea Temple,"160 N Gulph Rd, Ste 3061",King of Prussia,PA,19406.0,5.0,https://storage.googleapis.com/2024capstone51/photos/0N5wV7NgtHoEfP3ysNBMag.jpg,New Content
+475,JGFRWAuTtPzyaAblYVPbnA,Wine & Spirits Stores,130 S 69th St,Upper Darby,PA,19082.0,3.5,https://storage.googleapis.com/2024capstone51/photos/missing.jpg,New Content
+476,HCifhMUT0WjkhRp8MK3fqg,Walgreens,221 Delsea Dr N,Glassboro,NJ,8028.0,2.0,https://storage.googleapis.com/2024capstone51/photos/hNxrcnBIUMA3Z2-cruxoqw.jpg,New Content
+477,9_x8qMznptWETCHkoantUw,Restaurant Depot,1661 E Lincoln Hwy,Langhorne,PA,19047.0,3.0,https://storage.googleapis.com/2024capstone51/photos/missing.jpg,New Content
+478,H3bRWGQMuX6_c0INmLh7Ug,Lost in the Woods,357 Main Ave,Philadelphia,PA,8340.0,3.5,https://storage.googleapis.com/2024capstone51/photos/missing.jpg,New Content
+479,CRDEKl-mhP4N0lyOXvPAuA,Tony Morelli's Market,1008 Black Horse Pike,Glendora,NJ,8029.0,3.0,https://storage.googleapis.com/2024capstone51/photos/missing.jpg,New Content
+480,4w9gqF2-jPHQ6YR8LI8KIA,Mr Bottle Beverage,521 Lancaster Ave,Berwyn,PA,19312.0,5.0,https://storage.googleapis.com/2024capstone51/photos/missing.jpg,New Content
+481,Se4huafFTllxMSt9U8abcw,CVS Pharmacy,402 PA-313,Perkasie,PA,18944.0,1.5,https://storage.googleapis.com/2024capstone51/photos/fE3r2QQFGs1WijxNCX5GTw.jpg,New Content
+482,oyo4XKsNXrxtBqw7IzyAqQ,Rite Aid,1080 S West End Blvd,Quakertown,PA,18951.0,2.0,https://storage.googleapis.com/2024capstone51/photos/missing.jpg,New Content
+483,U8PUwW9gjjp-kO6T92JSHQ,Gelato Aromi,160 N Gulph Rd,King of Prussia,PA,19487.0,3.0,https://storage.googleapis.com/2024capstone51/photos/missing.jpg,New Content
+484,L5NV0pj0ZDkgTyxxvVYmbQ,Maugeri Farms,1991 Oldmans Creek Rd,Swedesboro,NJ,8085.0,3.5,https://storage.googleapis.com/2024capstone51/photos/kN_W793iMj3IwWWpwCSzPQ.jpg,New Content
+485,cUL9TlwJdOxZvjxVkRM97Q,Bella's Desserts,Rabbit Run Ln,Glenmoore,PA,19343.0,4.0,https://storage.googleapis.com/2024capstone51/photos/0ha96kgcviz1gJ0as_yuRw.jpg,New Content
+486,mscz4X2p8eWO_KR8Uv6WFQ,CVS Pharmacy,1530 Cowpath Road,Hatfield,PA,19440.0,2.0,https://storage.googleapis.com/2024capstone51/photos/MW2AdlUu0aihqco-RW4W6w.jpg,New Content
+487,yvls6-SocePxxfj_TKHzpg,Brewers Outlet,257 Wilmington W Chester Pike,Chadds Ford,PA,19317.0,3.5,https://storage.googleapis.com/2024capstone51/photos/missing.jpg,New Content
+488,f1uw8laKMDa9Oc1wMVNeqw,Scoupe deVille Ice Cream Parlor,460 N Lewis Rd,Royersford,PA,19468.0,3.5,https://storage.googleapis.com/2024capstone51/photos/missing.jpg,New Content
+489,T3m-qVJYIb77lRUesFwDpw,HomeCooked,1 Paoli Plz,Paoli,PA,19301.0,5.0,https://storage.googleapis.com/2024capstone51/photos/missing.jpg,New Content
+490,90BZIwr8YtZr4m1hMgB-hg,Sorbello Girls Farm Market,100 Moods Rd,Mullica Hill,NJ,8062.0,5.0,https://storage.googleapis.com/2024capstone51/photos/missing.jpg,New Content
+491,X4pIZ_kTTNltZYp3rRuprQ,Walgreens,1375 Forty Foot Rd,Lansdale,PA,19446.0,4.5,https://storage.googleapis.com/2024capstone51/photos/LQVi6FEPjFuUSvqIqWHmWg.jpg,New Content
+492,hE71P4kS-JkcK2gEBzOWEA,Rite Aid,832 N Lansdowne Ave,Drexel Hill,PA,19026.0,3.0,https://storage.googleapis.com/2024capstone51/photos/missing.jpg,New Content
+493,z-oRxBmNF6H8rLYtzLoEWQ,Newtown Square Beverage,105 S Newtown Street Rd,Newtown Square,PA,19073.0,4.0,https://storage.googleapis.com/2024capstone51/photos/missing.jpg,New Content
+494,mNQ9EW7k1eRaPhoM25TuaQ,Crumbl Cookies - Bensalem,200 Rockhill Dr,Bensalem,PA,19020.0,3.5,https://storage.googleapis.com/2024capstone51/photos/JyW3S1IUZ97BZwBYwawkfA.jpg,New Content
+495,Aq4Ru61TzI4dhUgIz5cy8Q,Rocket Fizz,"101 South NJ-73, Ste 113",Evesham Township,NJ,8053.0,4.5,https://storage.googleapis.com/2024capstone51/photos/missing.jpg,New Content
+496,mMxoXj_sMH6c2r-a-vB3Bw,Rite Aid,3599 West Chester Pike,Newtown Square,PA,19073.0,2.0,https://storage.googleapis.com/2024capstone51/photos/missing.jpg,New Content
+497,t1gF_3qcEKkWLVm62JWvvQ,Hoagie Town,1206 Point Breeze Ave,Philadelphia,PA,19146.0,2.5,https://storage.googleapis.com/2024capstone51/photos/missing.jpg,New Content
+498,nhUg4_5XgIPLFUAU_eAolQ,5 O’clock Wine & Spirits,173 Bridgeton Pike,Mullica Hill,NJ,8062.0,3.0,https://storage.googleapis.com/2024capstone51/photos/missing.jpg,New Content
+499,LjHc51EB9aSXwauXxHuwMA,Rite Aid,1441 Old York Rd,Abington,PA,19001.0,3.5,https://storage.googleapis.com/2024capstone51/photos/missing.jpg,New Content
+500,TWjk9Jhy9yR-mLlb-c0rzQ,Glen Willow Orchards,1657 Glen Willow Rd,Avondale,PA,19311.0,5.0,https://storage.googleapis.com/2024capstone51/photos/missing.jpg,New Content
+501,RnPqB4DPIWXch_hl7u2-mw,Holiday Beverages,8601 Torresdale Ave,Philadelphia,PA,19136.0,3.5,https://storage.googleapis.com/2024capstone51/photos/9GQCeca7LHf0UELOJ8yB2A.jpg,New Content
+502,_twk7K_VDe6zyanYDjJNdA,Fine Wine & Good Spirits,"Eddystone Shopping Ctr, 1562 Chester Pike",Eddystone,PA,19022.0,3.5,https://storage.googleapis.com/2024capstone51/photos/sAq8LkEn0_9ET5im5RrGPg.jpg,New Content
+503,8xp1f0z30A7aXPe1rSyHrQ,Glendale Kosher Meat Market & Poultry,732 Red Lion Rd,Philadelphia,PA,19115.0,5.0,https://storage.googleapis.com/2024capstone51/photos/missing.jpg,New Content
+504,J9rDpUfyh89UDKNxOQwanQ,Rita's Water Ice,501 W Schuylkill Rd,Pottstown,PA,19465.0,2.0,https://storage.googleapis.com/2024capstone51/photos/missing.jpg,New Content
+505,8JJ34dlhirOnfkGYrR-3yw,Giant,698 Downingtown Pike,West Chester,PA,19380.0,3.5,https://storage.googleapis.com/2024capstone51/photos/missing.jpg,New Content
+506,eUeVuus97AKQLd9-vhfGQA,CVS Pharmacy,1301 Rhawn St,Philadelphia,PA,19111.0,3.0,https://storage.googleapis.com/2024capstone51/photos/B-unA0woCaw0vbM_XG5I6Q.jpg,New Content
+507,vWwYzbfm_-7_C5024DfBGQ,Cork n Bottle,632 W Cuthbert Blvd,Haddon Township,NJ,8108.0,3.0,https://storage.googleapis.com/2024capstone51/photos/missing.jpg,New Content
+508,knf1cgvu0qCZzVWcyW_bXg,Coopermarket Co,302 Levering Mill Rd,Bala Cynwyd,PA,19004.0,4.0,https://storage.googleapis.com/2024capstone51/photos/missing.jpg,New Content
+509,-th4Avj4IeLtcTU3s8c3cA,Waywood Beverage,624 Millers Hl,Kennett Square,PA,19348.0,4.5,https://storage.googleapis.com/2024capstone51/photos/Sf3G-eiXVtQDRJ1kOJTexA.jpg,New Content
+510,Nsr46P7bRd1lATqE7H09Pw,Al-Amana Grocery Store,1502 Germantown Ave,Philadelphia,PA,19122.0,5.0,https://storage.googleapis.com/2024capstone51/photos/xeDqVKoE1c44uQFT2lmCkQ.jpg,New Content
+511,T1ZMdMt06W4KMktI5dC9XQ,Overbrook Food Market,2123 N 63rd St,Philadelphia,PA,19151.0,4.0,https://storage.googleapis.com/2024capstone51/photos/missing.jpg,New Content
+512,x3zNWk1qwG_KArQe-h0CYA,Health Meals By Anna,"352 Second St Pike, Ste 290",Southampton,PA,18966.0,5.0,https://storage.googleapis.com/2024capstone51/photos/6xSohRmbzsA8Q_axLxyxZg.jpg,New Content
+513,RT8yLeumwAVcl2qZwnYKTA,Giant Food Stores,4001 New Falls Rd,Levittown,PA,19056.0,3.0,https://storage.googleapis.com/2024capstone51/photos/missing.jpg,New Content
+514,XVzhz3xbjoJEn7HdxwXoSQ,J & D's Liquor,430 N Broad St,Woodbury,NJ,8096.0,2.5,https://storage.googleapis.com/2024capstone51/photos/missing.jpg,New Content
+515,16qRvmA7HfLO0Br0J234cQ,Rita's Italian Ice,430 Lancaster Pike,Malvern,PA,19355.0,4.0,https://storage.googleapis.com/2024capstone51/photos/missing.jpg,New Content
+516,1GyDpNw57LRPQpBuqoRfrQ,Omaha Steaks International,49 Kings Hwy E,Haddonfield,NJ,8033.0,1.0,https://storage.googleapis.com/2024capstone51/photos/missing.jpg,New Content
+517,Hizsvj7MUsKkWWVVXn9tmg,JB Liquors,120 Ctr Square Rd,Swedesboro,NJ,8085.0,2.5,https://storage.googleapis.com/2024capstone51/photos/missing.jpg,New Content
+518,vEPPq92m3jD6uLv8SN9WfA,Beer Stop,793 Bethlehem Pike,Colmar,PA,18915.0,4.0,https://storage.googleapis.com/2024capstone51/photos/missing.jpg,New Content
+519,dITkxWBe92OzvXA2kJWz9g,El nica,211 S Christopher Columbus Blvd,Philadelphia,PA,19106.0,5.0,https://storage.googleapis.com/2024capstone51/photos/jY2VfkaVBkLw7ZcmuNVE2g.jpg,New Content
+520,4_K8IBzSQvBkWJBzoTBz2A,Manayunk StrEAT Festival,116 Cotton St,Philadelphia,PA,19127.0,4.0,https://storage.googleapis.com/2024capstone51/photos/missing.jpg,New Content
+521,eFCaCZBcUxA9o04QJ939-A,Provence Catering,2068 W Main St,Jeffersonville,PA,19403.0,5.0,https://storage.googleapis.com/2024capstone51/photos/missing.jpg,New Content
+522,Cuit-YSjiIc2w8cbP2vB0Q,Rios Pharmacy,35 South Morton Avenue,Morton,PA,19070.0,3.0,https://storage.googleapis.com/2024capstone51/photos/missing.jpg,New Content
+523,8S9ZdSrVrTi_z1TYM-zayg,Nightlight Ice Cream,1020 Bethlehem Pike,Glenside,PA,19038.0,3.5,https://storage.googleapis.com/2024capstone51/photos/missing.jpg,New Content
+524,QcBOv7HuIFEdTo8eZTXeXg,Giant Foods,1760 Dekalb Pike,Blue Bell,PA,19422.0,2.5,https://storage.googleapis.com/2024capstone51/photos/missing.jpg,New Content
+525,V8Lp48sUBFRtL5gSt6v_Fg,ZenVillage Wellness,100 Bank St,Phoenixville,PA,19460.0,2.0,https://storage.googleapis.com/2024capstone51/photos/missing.jpg,New Content
+526,4DBhbIyHGi-nw7RbUhZ3Sw,No. 1 Asian Supermarket,2842 Saint Vincent Street S1,Philadelphia,PA,19149.0,3.5,https://storage.googleapis.com/2024capstone51/photos/C1nCDjG4UbQ1Go0wUXwUvw.jpg,New Content
+527,g7-xxdK9reN6wiAfgV_QJA,Westgate Wines & Spirits,4115 Newport Gap Pike,Wilmington,DE,19808.0,4.0,https://storage.googleapis.com/2024capstone51/photos/missing.jpg,New Content
+528,mTT-0aEkx3_2RMct-nQpPA,CVS Pharmacy,298 E Street Rd,Feasterville,PA,19053.0,2.0,https://storage.googleapis.com/2024capstone51/photos/G8xGx9KJQO8gRjamYT-gHA.jpg,New Content
+529,N11PPHgx_XABZjfEG5mspg,Rita's Italian Ice,161 Byberry Rd,Philadelphia,PA,19116.0,3.5,https://storage.googleapis.com/2024capstone51/photos/missing.jpg,New Content
+530,BHshhJKh0k6ovEVgAM3aPA,Save A Lot,2101 W Lehigh Ave,Philadelphia,PA,19132.0,2.0,https://storage.googleapis.com/2024capstone51/photos/missing.jpg,New Content
+531,Ra93AS06zJa51_-j8oMFIQ,CVS Pharmacy,202 Kings Hwy E,Haddonfield,NJ,8033.0,3.0,https://storage.googleapis.com/2024capstone51/photos/oq9mKIPhjbasEDmM7r3i-A.jpg,New Content
+532,VQMf48McP-Ovt4kCLpJjoA,Rite Aid,1 Summit Sq,Langhorne,PA,19047.0,3.5,https://storage.googleapis.com/2024capstone51/photos/missing.jpg,New Content
+533,tf66upIFhLdvxvA5pQVL3A,Walgreens,3300 Dekalb Pike,Norristown,PA,19401.0,2.5,https://storage.googleapis.com/2024capstone51/photos/missing.jpg,New Content
+534,4WKAZI5MkQ_QsrN5gX071w,Race To Taste Curbside Grill,Main St,Norristown,PA,19401.0,3.5,https://storage.googleapis.com/2024capstone51/photos/missing.jpg,New Content
+535,8foUUaeOiPncS5vm_k1Nkw,Auntie Anne's,"400 W Route 38, Spc 1080",Moorestown,NJ,8057.0,1.5,https://storage.googleapis.com/2024capstone51/photos/missing.jpg,New Content
+536,2-oXhioK5KFCSUVNjv2GCg,Baskin-Robbins,1630 E Wadsworth Ave,Philadelphia,PA,19150.0,2.5,https://storage.googleapis.com/2024capstone51/photos/missing.jpg,New Content
+537,c904aYBQlWMlxDYswbYUeQ,CVS Pharmacy,2870 Moreland Rd,Willow Grove,PA,19090.0,2.0,https://storage.googleapis.com/2024capstone51/photos/AE75w6CJxy9BvfQW8Trr9w.jpg,New Content
+538,RfT7aELs78xk6GhXKhyGnQ,Green Farm,10690 Bustleton Ave,Philadelphia,PA,19116.0,4.5,https://storage.googleapis.com/2024capstone51/photos/missing.jpg,New Content
+539,GfGeQHHqUDjOlacP11F_nw,CVS Pharmacy,1605 Telegraph Rd,Wilmington,DE,19804.0,5.0,https://storage.googleapis.com/2024capstone51/photos/EAaB-sU7dFD1Pw6K9Bv2GQ.jpg,New Content
+540,3OFo0X6NeChsFryLK6hV0g,Walgreens,52 Chester Pike,Darby,PA,19023.0,2.0,https://storage.googleapis.com/2024capstone51/photos/nS24bPLwj16_ixPX8l9cAw.jpg,New Content
+541,07-NiYGNKmWnKGh9IDBoYQ,Faire Market & Cafe,216 W 9th St,Wilmington,DE,19801.0,4.0,https://storage.googleapis.com/2024capstone51/photos/missing.jpg,New Content
+542,-mThPBxTHcLcsc2PRDgC5g,Skippack Beverage,1120 Bridge Rd,Schwenksville,PA,19473.0,4.5,https://storage.googleapis.com/2024capstone51/photos/missing.jpg,New Content
+543,V26DFPpqsec2UH81a6jMgQ,Bath & Body Works,2000 Nj-38,Cherry Hill,NJ,8002.0,3.0,https://storage.googleapis.com/2024capstone51/photos/missing.jpg,New Content
+544,KMOoGqBHVi7Cqazd0AHsFA,Rita's Italian Ice,2382 Durham Rd,Langhorne,PA,19047.0,4.0,https://storage.googleapis.com/2024capstone51/photos/missing.jpg,New Content
+545,aXWzxc2fYNBpr1xPLK2-qw,Fine Wine & Good Spirits - Premium Collection,401 Franklin Mills Cir,Philadelphia,PA,19154.0,4.0,https://storage.googleapis.com/2024capstone51/photos/missing.jpg,New Content
+546,s59By5sG7zK4yKBFA7ZpSg,Khmer Market,1501 S 6th St,Philadelphia,PA,19147.0,4.0,https://storage.googleapis.com/2024capstone51/photos/missing.jpg,New Content
+547,zLXJdgkuGYsipInaXpj7Sg,Pat's Beverages,1423 E High St,Pottstown,PA,19464.0,4.0,https://storage.googleapis.com/2024capstone51/photos/missing.jpg,New Content
+548,yeTzjbJPd1lHd1apdP0xXQ,Merzbacher's of Germantown,4530 Germantown Ave,Philadelphia,PA,19144.0,5.0,https://storage.googleapis.com/2024capstone51/photos/missing.jpg,New Content
+549,Vsb_640TQac9M47IYuCeTg,Cutone Mario Mushrooms,,Avondale,PA,19311.0,5.0,https://storage.googleapis.com/2024capstone51/photos/missing.jpg,New Content
+550,YYR3N7Gt_C-XxJ_qdCinLQ,Rosemont Beverage Center,850 Conestoga Rd,Bryn Mawr,PA,19010.0,4.5,https://storage.googleapis.com/2024capstone51/photos/missing.jpg,New Content
+551,VqbS5tyfB0t1VIbjqtudWQ,Nicoletti Beverage Center,7040 State Rd,Philadelphia,PA,19135.0,4.0,https://storage.googleapis.com/2024capstone51/photos/missing.jpg,New Content
+552,Z6B7F-9Jn7OqTRYpcyhOvA,Gertrude Hawk Chocolates,Rt 1 & Bristol Rd,Bensalem,PA,19020.0,4.0,https://storage.googleapis.com/2024capstone51/photos/-GpZyAzIw8jrHZxar5keUg.jpg,New Content
+553,YsRPbMkcPKNSidh0Fqd9jg,Fine Wine & Good Spirits,"1305 W Chester Pike, Ste 44B",Havertown,PA,19083.0,4.0,https://storage.googleapis.com/2024capstone51/photos/q0jodIeeo3RrvZGcBvRK3w.jpg,New Content
+554,Q33PBRVVTB4JN9oHAFdsxw,Dollar General,701 Kings Hwy N,Cherry Hill,NJ,8034.0,2.5,https://storage.googleapis.com/2024capstone51/photos/missing.jpg,New Content
+555,kGuIcESvOpYqYUnCuCdtaw,Karolyn's Kakes,,Bensalem,PA,19020.0,5.0,https://storage.googleapis.com/2024capstone51/photos/81hH1jIloj-Ic1Fq3eay4w.jpg,New Content
+556,rd_hN9mKu7rhdTzaFXRehQ,Rite Aid,200 Kimberton Road,Phoenixville,PA,19460.0,2.0,https://storage.googleapis.com/2024capstone51/photos/missing.jpg,New Content
+557,y6ZsCZlfPfuVwykCP7nG9Q,Catering To Your Whims,"58 Lafayette Ave, Ste A",Voorhees Township,NJ,8043.0,5.0,https://storage.googleapis.com/2024capstone51/photos/missing.jpg,New Content
+558,FxD8lRLq6OLQW1_ch7mYqw,Walgreens,690 2nd Street Pike,Southampton,PA,18966.0,3.0,https://storage.googleapis.com/2024capstone51/photos/YFq7xifZr7ve64Er7yDbFg.jpg,New Content
+559,gFQSfZj9O9pfszh8nWHnWQ,Dollar General,1016 West Ave,Woodstown,NJ,8098.0,3.5,https://storage.googleapis.com/2024capstone51/photos/missing.jpg,New Content
+560,NzSvl4_9fBE3svLfFbe-tg,Rite Aid,705 W Lancaster Ave,Bryn Mawr,PA,19010.0,3.5,https://storage.googleapis.com/2024capstone51/photos/missing.jpg,New Content
+561,fjX7IMZ-cbshuapP3c-qGQ,Giant,1661 Easton Rd,Warrington,PA,18976.0,1.5,https://storage.googleapis.com/2024capstone51/photos/missing.jpg,New Content
+562,moAVzx7WXqKynom2mPpAnw,Brandywine Liquors,2718 Naamans Rd,Wilmington,DE,19810.0,5.0,https://storage.googleapis.com/2024capstone51/photos/missing.jpg,New Content
+563,pYvwbbIbaUAzmHrEKWbKHQ,Platinum House of sweets,7A Shoppers Ln,Turnersville,NJ,8012.0,5.0,https://storage.googleapis.com/2024capstone51/photos/missing.jpg,New Content
+564,G602l7e35ia6mOHzHaFV8g,P & S Ravioli,7051 Torresdale Ave,Philadelphia,PA,19135.0,3.5,https://storage.googleapis.com/2024capstone51/photos/missing.jpg,New Content
+565,TADD052zYQ5h_3-XKkcsgw,Fairview Farm Market,831 Pineville Rd,Pineville,PA,18946.0,5.0,https://storage.googleapis.com/2024capstone51/photos/missing.jpg,New Content
+566,_7cf56aKblR62Jwor53Nlw,Circle K,1801 Concord Pike,Wilmington,DE,19803.0,3.5,https://storage.googleapis.com/2024capstone51/photos/FPaQwSrE55eHWiwVhE0p9A.jpg,New Content
+567,93vym-VlZE1rk_zMhPhgEQ,Walgreens,901 Old York Rd,Jenkintown,PA,19046.0,3.0,https://storage.googleapis.com/2024capstone51/photos/missing.jpg,New Content
+568,oep1GPIUZQMoEJBEoYnXTg,Wine & Spirits Stores,32 South 2nd St,Philadelphia,PA,19106.0,3.5,https://storage.googleapis.com/2024capstone51/photos/missing.jpg,New Content
+569,dYXPOwmSYVS1cRcn0uktcw,Mecca Halal Meat,1960 Nolden Ave Ext,Ewing Township,NJ,8618.0,4.0,https://storage.googleapis.com/2024capstone51/photos/missing.jpg,New Content
+570,F3aHwV2-3TYUMq723d9LgA,DeKalb Supermarket,815 DeKalb St,Norristown,PA,19401.0,2.0,https://storage.googleapis.com/2024capstone51/photos/missing.jpg,New Content
+571,9XiCpjNHBg_IBhSotbfsug,ALDI,8200 Ogontz Ave,Wyncote,PA,19095.0,4.5,https://storage.googleapis.com/2024capstone51/photos/w7ZqFBO-kLkN1S7dzEf4zg.jpg,New Content
+572,Jedync3AEwog8aBrewm36w,Redner's Fresh Market,2850 Audubon Village Dr,Audubon,PA,19403.0,4.0,https://storage.googleapis.com/2024capstone51/photos/missing.jpg,New Content
+573,eDZqkqNsTnlhrOox1Rh2lg,Pennypack Beer Distributor,8120 Roosevelt Blvd,Philadelphia,PA,19152.0,5.0,https://storage.googleapis.com/2024capstone51/photos/missing.jpg,New Content
+574,nA3mD9fnxkpmX2G1gvbhQg,Fine Wine & Good Spirits - Premium Collection,922 W Lancaster Ave,Bryn Mawr,PA,19010.0,3.0,https://storage.googleapis.com/2024capstone51/photos/7Bxyo4Ks4JieDVUwtvMZJg.jpg,New Content
+575,AhBeA8m8iNP_b5jRORMlyg,Mayfair Beverage,6500 Frankford Ave,Philadelphia,PA,19135.0,3.0,https://storage.googleapis.com/2024capstone51/photos/missing.jpg,New Content
+576,Cs8jsAIrxCpzo7E5YFgRvg,Walgreens,4601 Westfield Ave,Pennsauken,NJ,8110.0,2.0,https://storage.googleapis.com/2024capstone51/photos/MilUR2THvNs1x3PmYMKIHA.jpg,New Content
+577,DwklTpvdJw0c8P7fnZUIOg,St. Hedwig's Polish Festival,S Madison St,Wilmington,DE,19805.0,4.0,https://storage.googleapis.com/2024capstone51/photos/missing.jpg,New Content
+578,dm97MvKVcJ9NSbKAU5pGWg,Rita's Italian Ice,1227 Bristol Pike,Andalusia,PA,19020.0,3.0,https://storage.googleapis.com/2024capstone51/photos/missing.jpg,New Content
+579,2sVq5omCxRzLCVeUKXS1hg,Walker's Wine & Spirits,86 Bridge St,Lambertville,NJ,8530.0,4.0,https://storage.googleapis.com/2024capstone51/photos/missing.jpg,New Content
+580,wb0ABRor1OedzUWbjiadpw,Framers Market Gallery,385 Lancaster Ave,Malvern,PA,19355.0,5.0,https://storage.googleapis.com/2024capstone51/photos/missing.jpg,New Content
+581,_V1dR3zNmwBmud3eHXfjqg,Al-Salam Food Market,928 Levick St,Philadelphia,PA,19111.0,4.0,https://storage.googleapis.com/2024capstone51/photos/A2pjqgY-gV0PTATp8e17mw.jpg,New Content
+582,5H2Kf26eRTazKzs9SpsdWg,The Wine & Spirit Co.,4025 Kennett Pike,Wilmington,DE,19807.0,4.0,https://storage.googleapis.com/2024capstone51/photos/nhWmrryq62Lp-zbaLH1WlA.jpg,New Content
+583,qEHDb0JT39oIxd96TrdcfQ,Carvel Ice Cream,807 S Olden Ave,Trenton,NJ,8610.0,4.5,https://storage.googleapis.com/2024capstone51/photos/missing.jpg,New Content
+584,k6BLeAGKHZqzp2qhmVjlQg,Walgreens Pharmacy at Hahnemann University Hospital,245 N Broad St,Philadelphia,PA,19107.0,3.0,https://storage.googleapis.com/2024capstone51/photos/missing.jpg,New Content
+585,iMLRtlT5lO2Q2A7FiulZtw,Golden Farms Supermarket,6710 Haverford Ave,Philadelphia,PA,19151.0,4.0,https://storage.googleapis.com/2024capstone51/photos/missing.jpg,New Content
+586,Vn2nFA9JaEXTebCExP869w,Myra's Vitamin and Herbal a Wellness Center,666 N 52nd St,Philadelphia,PA,19131.0,5.0,https://storage.googleapis.com/2024capstone51/photos/missing.jpg,New Content
+587,LyT9zswxviX5LVFotsh6qg,Rite Aid,237 E Lancaster Ave,Wayne,PA,19087.0,2.5,https://storage.googleapis.com/2024capstone51/photos/missing.jpg,New Content
+588,gj2ghtZt2rWaqFOPEwNxLQ,Five Below,"5851 Rte 42, Ste 2",Blackwood,NJ,8012.0,4.0,https://storage.googleapis.com/2024capstone51/photos/missing.jpg,New Content
+589,FacSa4vE-NDRaAXQx3M8WQ,Sunoco Aplus,906 Swedesford Rd,Berwyn,PA,19312.0,2.5,https://storage.googleapis.com/2024capstone51/photos/missing.jpg,New Content
+590,nqz4dhxnIUaM-6mILN1eww,Cousins Fresh Market,6411 Woodland Ave,Philadelphia,PA,19142.0,1.5,https://storage.googleapis.com/2024capstone51/photos/missing.jpg,New Content
+591,3ZBrBXbKQlcCY0USaSX32g,Crab Stop,1858 Mount Ephraim Ave,Camden,NJ,8104.0,4.0,https://storage.googleapis.com/2024capstone51/photos/missing.jpg,New Content
+592,PyLUyFDUPiLKDwVnWSUjFQ,Aurora Grace,225 S 18th St,Philadelphia,PA,19103.0,4.5,https://storage.googleapis.com/2024capstone51/photos/missing.jpg,New Content
+593,p4bIu0rYisBB6CxkI1s03g,Baskin-Robbins,651 College Dr,Blackwood,NJ,8012.0,2.5,https://storage.googleapis.com/2024capstone51/photos/missing.jpg,New Content
+594,YaGoApXcbSKmCRaWZnwxwQ,The Vitamin Shoppe,1188 Hurffville Rd,Deptford,NJ,8096.0,4.0,https://storage.googleapis.com/2024capstone51/photos/missing.jpg,New Content
+595,r2MZMvVRZBWXOmxgoFuitA,Jenna's Treats,,West Chester,PA,19382.0,5.0,https://storage.googleapis.com/2024capstone51/photos/f9C2QQTQ5NFlpM6NV0EONA.jpg,New Content
+596,Jf_GzCqHaXt6Y-3E8-AH6Q,Beverage Zone,"198 Lincoln Hwy, Ste 5",Fairless Hills,PA,19030.0,5.0,https://storage.googleapis.com/2024capstone51/photos/missing.jpg,New Content
+597,o46yygtcv5vOQShnEnfNpQ,Halal Cart,12TH And Chestnut,Philadelphia,PA,19107.0,3.5,https://storage.googleapis.com/2024capstone51/photos/missing.jpg,New Content
+598,7ataHmTq7FemQTQQ3ncYWw,Rite Aid,1321 Easton Rd,Abington,PA,19001.0,2.0,https://storage.googleapis.com/2024capstone51/photos/missing.jpg,New Content
+599,b2VW5j9_Fq-ft-4TkhBB5w,Carool's Liquor Store,2007 Admiral Wilson Blvd,Pennsauken,NJ,8109.0,2.5,https://storage.googleapis.com/2024capstone51/photos/missing.jpg,New Content
+600,bTK6rm-nj2e4q-nou_hmSA,Rite Aid,7835 Maple Ave,Pennsauken,NJ,8109.0,2.0,https://storage.googleapis.com/2024capstone51/photos/missing.jpg,New Content
+601,LN39WTkNOUCEbcgTq8yY8A,Mason's Grocery,353 Lyceum Ave,Philadelphia,PA,19128.0,4.0,https://storage.googleapis.com/2024capstone51/photos/missing.jpg,New Content
+602,MDhAG3z-yHiJzU8Lh2wraw,Green Top Farm Market,1811 Route 70,Vincentown,NJ,8088.0,2.0,https://storage.googleapis.com/2024capstone51/photos/missing.jpg,New Content
+603,rMhq8EMkpcf8xxpPt7YuBA,CVS Pharmacy,260 Rock Hill Rd,Bala Cynwyd,PA,19004.0,3.0,https://storage.googleapis.com/2024capstone51/photos/_VwCnslOY581PgfWtsT7Iw.jpg,New Content
+604,tbX6pe5RdMsd5N4qgQ40CQ,Lindt,1301 Highway 168,Gloucester Township,NJ,8012.0,4.5,https://storage.googleapis.com/2024capstone51/photos/missing.jpg,New Content
+605,nDKIoUC384UDQlGsv2tS0Q,Walgreens,20 W Kings Hwy,Mount Ephraim,NJ,8059.0,1.0,https://storage.googleapis.com/2024capstone51/photos/BqXgfCTpUPpABEVKgMUmIA.jpg,New Content
+606,aLVxpZNaq_MOvqIO6FWN3Q,University Liquors,5 University Plz,Newark,DE,19702.0,2.0,https://storage.googleapis.com/2024capstone51/photos/missing.jpg,New Content
+607,g-GurkPLhwx13WNehQUlaQ,Cinnabon/Auntie Anne's,47 Clara Barton Ln,Oldmans,NJ,8067.0,3.5,https://storage.googleapis.com/2024capstone51/photos/bPAClIt_VJ73Awz0NdpkJA.jpg,New Content
+608,7DAMeub9e39fZwhfsAMPJw,CVS Pharmacy,5 Kugler Rd,Limerick,PA,19468.0,2.5,https://storage.googleapis.com/2024capstone51/photos/Wt_Oi4-0TyMOzIGi1qoYgQ.jpg,New Content
+609,Kowe4tJCIRo1SO_OU8CKNw,Pennsylvania Wine & Spirits,2927 Swede Rd,Norristown,PA,19401.0,4.0,https://storage.googleapis.com/2024capstone51/photos/_nud0IGWFPZeWDtXh8Rpqw.jpg,New Content
+610,OmZVD58AuM-gZUsVaJlp0A,Greensgrow West,5123 Baltimore Ave,Philadelphia,PA,19143.0,4.5,https://storage.googleapis.com/2024capstone51/photos/missing.jpg,New Content
+611,-sDoomNfln32UtnuOsj3yw,Cold Spring Beverages,773 Durham Rd,Newtown,PA,18940.0,4.0,https://storage.googleapis.com/2024capstone51/photos/missing.jpg,New Content
+612,SjklKpjgDbj-h3dm5N7Bjg,Cherrywood Liquors,1279 Blackwood Clementon Rd,Clementon,NJ,8021.0,4.5,https://storage.googleapis.com/2024capstone51/photos/missing.jpg,New Content
+613,8HTByKL5p-H2ctqQamV6Zg,Walgreens,1 Yorktown Plz,Elkins Park,PA,19027.0,2.0,https://storage.googleapis.com/2024capstone51/photos/z8_hpezTVMZBGojv8LVLtg.jpg,New Content
+614,jdYYcgWbTgh6iV8Mw29f0w,GNC,"2034 County Line Rd, Space 32",Huntingdon Valley,PA,19006.0,3.5,https://storage.googleapis.com/2024capstone51/photos/missing.jpg,New Content
+615,gKGFIEeN_7qpJj46fnacOA,Lamp Light Florist And Gift,1760 Woodbury Glassboro Rd,Sewell,NJ,8080.0,3.0,https://storage.googleapis.com/2024capstone51/photos/missing.jpg,New Content
+616,pHVWOzVt0lZhH8DloZK8ug,Walgreens,2 E Street Rd,Feasterville Trevose,PA,19053.0,3.0,https://storage.googleapis.com/2024capstone51/photos/missing.jpg,New Content
+617,buPWCjX9ON8CGkXlAzK4Ng,Diantonio's Catering,228 Krams Ave,Philadelphia,PA,19127.0,5.0,https://storage.googleapis.com/2024capstone51/photos/missing.jpg,New Content
+618,hN_ThL45R2cctTFW1Ep3TA,Tres Fiori,,Philadelphia,PA,19106.0,5.0,https://storage.googleapis.com/2024capstone51/photos/QMcf7vbvOPPA2fkpdhl28w.jpg,New Content
+619,gOrSeiLIzieKkYANbJE54w,Lidl,2613 Ridge Pike,Trooper,PA,19403.0,4.0,https://storage.googleapis.com/2024capstone51/photos/missing.jpg,New Content
+620,vVN9HVQ_GTbfBt_Z0mS37w,Chrysalis Natural Medicine Clinic,1008 Milltown Rd,Wilmington,DE,19808.0,4.0,https://storage.googleapis.com/2024capstone51/photos/missing.jpg,New Content
+621,bmx4GIpwXDaHXwcJT_D54g,Gilpin Liquors,1400 N Van Buren St,Wilmington,DE,19806.0,4.0,https://storage.googleapis.com/2024capstone51/photos/missing.jpg,New Content
+622,mQFGOnyhpFAxg0yKG8tfLw,Rita's Italian Ice,7313 Lancaster Pike,Hockessin,DE,19707.0,4.5,https://storage.googleapis.com/2024capstone51/photos/missing.jpg,New Content
+623,vONJMgwzonjFsA3RvAOvEQ,GIANT Food Stores,830 East Baltimore Pike,Kennett Square,PA,19348.0,3.5,https://storage.googleapis.com/2024capstone51/photos/missing.jpg,New Content
+624,hwrVcMlAY3bHZRZFLDQ0Fw,Lionville Natural Pharmacy,200 E Uwchlan Ave,Exton,PA,19341.0,3.0,https://storage.googleapis.com/2024capstone51/photos/missing.jpg,New Content
+625,2kPCe_Bn6kwKXbGlBVPz9w,CVS Pharmacy,409 Harleysville Pike,Souderton,PA,18964.0,4.0,https://storage.googleapis.com/2024capstone51/photos/VuzjXHnNKtGWln8V0tgOgA.jpg,New Content
+626,fhA4kVbM3LBf1mvEpie7Ow,Rite Aid,7941 Oxford Ave,Philadelphia,PA,19111.0,3.5,https://storage.googleapis.com/2024capstone51/photos/missing.jpg,New Content
+627,fjA7GBvQIlyB2l7Zjqugfw,Rita's Italian Ice,1648 North Kings Hwy,Cherry Hill,NJ,8034.0,3.5,https://storage.googleapis.com/2024capstone51/photos/missing.jpg,New Content
+628,zzjCxn89a7RQo8keIOO_Ag,Thriftway,2190 E High St,Pottstown,PA,19464.0,2.0,https://storage.googleapis.com/2024capstone51/photos/missing.jpg,New Content
+629,586o0-kKLnSLFQ3cxCzbsA,AK PREPS AND BAKERY,389 West Lincoln Hwy,Penndel,PA,19047.0,4.5,https://storage.googleapis.com/2024capstone51/photos/3n-uF72hjalcQrNPiPQIKA.jpg,New Content
+630,LgcBq3TqnyKj0w4tZAQXdQ,CVS Pharmacy,1501 Paoli Pike,West Chester,PA,19380.0,3.0,https://storage.googleapis.com/2024capstone51/photos/sFO99zl6PKhaoabbjkhgjQ.jpg,New Content
+631,wZejG4tyjmTz3ZkKAdyjsw,Hollingsworth's Cookies and Fine Desserts,605 N Haddon Ave,Haddonfield,NJ,8033.0,2.0,https://storage.googleapis.com/2024capstone51/photos/missing.jpg,New Content
+632,usnVlDYZz3p8cc-1PH7Ajg,DASHED,310 E Girard Ave,Philadelphia,PA,19125.0,2.0,https://storage.googleapis.com/2024capstone51/photos/hfl5k5lJ2JHVlbmifLQUUA.jpg,New Content
+633,eiKUoUcSz-vHWu_law7HNg,Chow's Farms,1211 Kirkwood Hwy,Wilmington,DE,19805.0,2.5,https://storage.googleapis.com/2024capstone51/photos/missing.jpg,New Content
+634,zaJJt9AKzIVqor6w_g1heQ,Bricky Girl Tea Room & Gifts,236 Mill St,Bristol,PA,19007.0,4.0,https://storage.googleapis.com/2024capstone51/photos/missing.jpg,New Content
+635,QgaikAovfcdV4CIJsuBYBw,Walgreens,51 Baltimore Pike,Glen Mills,PA,19342.0,2.0,https://storage.googleapis.com/2024capstone51/photos/missing.jpg,New Content
+636,a52YLrCvv1LjfzTgnZlhBQ,Kennett Beverage,710 W Baltimore Pike,Kennett Square,PA,19348.0,3.0,https://storage.googleapis.com/2024capstone51/photos/missing.jpg,New Content
+637,QGvSRXU12cm8yPxQT_Fwdg,CVS Pharmacy,2000 Swamp Pike,Gilbertsville,PA,19525.0,2.5,https://storage.googleapis.com/2024capstone51/photos/missing.jpg,New Content
+638,b-MVXcQAub3xucDbxG0IkQ,Rite Aid,4055-89 Market St,Philadelphia,PA,19104.0,3.0,https://storage.googleapis.com/2024capstone51/photos/hpciBgt4xiiylyjGX91EIA.jpg,New Content
+639,82n2c_QXZASJxyzUHNSgHw,Auntie Anne's,1230 Arch St,Philadelphia,PA,19107.0,3.0,https://storage.googleapis.com/2024capstone51/photos/missing.jpg,New Content
+640,NdquskgXKMFOi2e0cWqs3g,Walgreens,180 Bridgeton Pike,Mantua,NJ,8051.0,3.0,https://storage.googleapis.com/2024capstone51/photos/WhxXiCwKgHJpA5a2M_oQgA.jpg,New Content
+641,c2fOdKzW7Iq8Bec8Wc3S5A,Bristol Blitz,800 Bristol Pike,Bristol,PA,19007.0,3.0,https://storage.googleapis.com/2024capstone51/photos/missing.jpg,New Content
+642,kAlsU3rDJ7vYMp8Ky28-vQ,Rita's Italian Ice,"1400 Parkway Ave, Unit 1",Ewing,NJ,8628.0,4.0,https://storage.googleapis.com/2024capstone51/photos/missing.jpg,New Content
+643,gSS3Pob4VapXpDrtj-rTVw,Los Amigos Grocery,500 S Broadway,Camden,NJ,8103.0,4.0,https://storage.googleapis.com/2024capstone51/photos/missing.jpg,New Content
+644,Z-tqtgCNUEzHPdbE7NTPuA,Famous 4th Street Cookie,4177 Ridge Ave,Philadelphia,PA,19129.0,5.0,https://storage.googleapis.com/2024capstone51/photos/3wkHx8rqs-ucAIM4QTy96A.jpg,New Content
+645,w-VDjDYsRT81r0r9vPOMcg,Yogo Factory,"120 Center Square Rd, Ste 1",Swedesboro,NJ,8085.0,3.5,https://storage.googleapis.com/2024capstone51/photos/missing.jpg,New Content
+646,m68lid9sJwUHuC0j6DiLxg,The Pie'd Piper,960 Spruce St,Lawrence Township,NJ,8648.0,3.5,https://storage.googleapis.com/2024capstone51/photos/wFq0_VsBKvIVX0Z458ncrg.jpg,New Content
+647,nSk0qzMFx1dgHwdBmQm4dw,Walgreens,504 Kings Hwy N,Cherry Hill,NJ,8034.0,3.5,https://storage.googleapis.com/2024capstone51/photos/9XMJUM2cPoTs6eEDgpEoTQ.jpg,New Content
+648,trS2nMghMuAksrt1f_tqvg,ALDI,1210 Bethlehem Pike,North Wales,PA,19454.0,4.0,https://storage.googleapis.com/2024capstone51/photos/XSzdhWrd5zlikYDksv7HRw.jpg,New Content
+649,uGQTlLly4em2Y3TtfHomvQ,Rite Aid,5627-99 Chestnut St,Philadelphia,PA,19139.0,2.0,https://storage.googleapis.com/2024capstone51/photos/missing.jpg,New Content
+650,_XtUZuRLeTu-TqUjfF_OsQ,Almonte market,883 N 5th St,Philadelphia,PA,19123.0,4.0,https://storage.googleapis.com/2024capstone51/photos/missing.jpg,New Content
+651,9HZZCBzNnbMgJWULs0yaKw,Lilly Orlando,446 E State St,Media,PA,19063.0,4.0,https://storage.googleapis.com/2024capstone51/photos/missing.jpg,New Content
+652,gynfrJvYRRVTNjMv-UUDBw,Green Lion Breads,"400 Franklin Ave, Ste 238",Phoenixville,PA,19460.0,5.0,https://storage.googleapis.com/2024capstone51/photos/missing.jpg,New Content
+653,OLC8D6ig4vyLLXvPlQUFpw,Sunoco A Plus,630 Walnut Ln,Philadelphia,PA,19128.0,2.0,https://storage.googleapis.com/2024capstone51/photos/missing.jpg,New Content
+654,c--wtAs_U4IGHmJCfHm0mw,CVS Pharmacy,105 E Uwchlan Ave,Exton,PA,19341.0,2.0,https://storage.googleapis.com/2024capstone51/photos/2X-8PnnpYH6inGiGtBTyYw.jpg,New Content
+655,bXBb0CUy3HYq-iTJfgDogg,Pat Deon Beverages,540 S Oxford Valley Rd,Fairless Hills,PA,19030.0,4.0,https://storage.googleapis.com/2024capstone51/photos/missing.jpg,New Content
+656,MOVFDKVqWkDM1hUJNwpaYQ,Grovers Meat Market,2910 S 70th St,Philadelphia,PA,19142.0,2.5,https://storage.googleapis.com/2024capstone51/photos/missing.jpg,New Content
+657,uOrh9mr5v7GTatUDlv6dpw,Rite Aid,1000 Kings Hwy,West Deptford,NJ,8086.0,2.0,https://storage.googleapis.com/2024capstone51/photos/missing.jpg,New Content
+658,CqJ57DbNm1_yiR31yqDvDg,North Wales Beer,120 N 3rd St,North Wales,PA,19454.0,5.0,https://storage.googleapis.com/2024capstone51/photos/missing.jpg,New Content
+659,SKt-qERyX7NIk18xDyY2Eg,Rite Aid,113 E Baltimore Ave,Clifton Heights,PA,19018.0,3.0,https://storage.googleapis.com/2024capstone51/photos/missing.jpg,New Content
+660,k1zrrVnQOlfLcnhIFQQo8w,Heritage's Dairy Stores,507 Auburn Ave,Swedesboro,NJ,8085.0,3.0,https://storage.googleapis.com/2024capstone51/photos/missing.jpg,New Content
+661,vPhd2HKyST5AFrjQ0foQ0Q,The Nut Shop,923 N Broad St,Woodbury,NJ,8096.0,3.0,https://storage.googleapis.com/2024capstone51/photos/missing.jpg,New Content
+662,vzQXdmbepMp1su2SseMlgA,Cuisine365,4207 Ferne Blvd,Drexel Hill,PA,19026.0,3.5,https://storage.googleapis.com/2024capstone51/photos/fJLmEf2HVuDM8sgvisL5Vg.jpg,New Content
+663,xbSPADC4oC4oafSChXlVWw,AGA Farms,1333 Elephant Rd,Perkasie,PA,18944.0,4.0,https://storage.googleapis.com/2024capstone51/photos/missing.jpg,New Content
+664,aWfQGFpcIpqjp5FeCoUC_Q,Main Street Produce,2431 W Main St,Norristown,PA,19403.0,3.0,https://storage.googleapis.com/2024capstone51/photos/missing.jpg,New Content
+665,xOGfzl9tHxAYtJZUbXAWcw,Carber's Chocolates,114 Bethlehem Pike,Colmar,PA,18915.0,4.0,https://storage.googleapis.com/2024capstone51/photos/missing.jpg,New Content
+666,5Z84jFUZVwouIAaoyGW2_Q,Acme Markets,2091 US Hwy 130,Willingboro,NJ,8046.0,2.0,https://storage.googleapis.com/2024capstone51/photos/missing.jpg,New Content
+667,cDyC6HhZuNrf8Em33Qp0Kw,Coventry Parlor,1503 Ridge Rd,Pottstown,PA,19465.0,3.0,https://storage.googleapis.com/2024capstone51/photos/missing.jpg,New Content
+668,ncz7WSdeHl3wXVIJXizmXA,Schober Wm Sons Farm,1125 Monroeville Rd,Monroeville,NJ,8343.0,4.5,https://storage.googleapis.com/2024capstone51/photos/missing.jpg,New Content
+669,t6F5E5a3Eo76wYCOQfiEzA,CVS Pharmacy,4133 G St,Philadelphia,PA,19124.0,2.5,https://storage.googleapis.com/2024capstone51/photos/missing.jpg,New Content
+670,0fyw_g_zUOdlUcWKxrLKVg,Efes Market,"4000 Us-130, Ste 12",Delran,NJ,8075.0,3.5,https://storage.googleapis.com/2024capstone51/photos/missing.jpg,New Content
+671,Qeh-KW3nlQBqh6Y-smHrUg,Walgreens,740 Ferry Cut Off St,New Castle,DE,19720.0,2.0,https://storage.googleapis.com/2024capstone51/photos/SwM6AkadRrDSlsFNReKHFg.jpg,New Content

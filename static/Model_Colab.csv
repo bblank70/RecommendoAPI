@@ -1,0 +1,73 @@
+,Unnamed: 0,user,business_id,business_name,address,city,state,postal_code,stars,hyperlink,Model
+0,0,Teresa,UfNta35H6m-z2xN9XFI77g,House of Thai Cuisine,3520 Cottman Ave,Philadelphia,PA,19149.0,4.5,4unSVbGBuku7ftKw8xpl4Q.jpg,Colaborative Filtering
+1,1,Teresa,h85b3MFPWyaopMBy8DpBpA,Ron's Caribbean Cuisine,5726 N Broad St,Philadelphia,PA,19141.0,4.0,hwhXDKFgUE7pYj35xHMGug.jpg,Colaborative Filtering
+2,2,Teresa,KDplhtRYnHOCnuIjIGR8fA,The Goat's Beard,4201 Main St,Philadelphia,PA,19127.0,4.0,w4slCXUHQx16iQ1XLVnqRA.jpg,Colaborative Filtering
+3,0,Doug,30cpm1uq6xcQCmN6JTrB8w,Luke's Lobster Rittenhouse,130 S 17th St,Philadelphia,PA,19103.0,4.5,kp7fElitnsGUoe2iFmGHnQ.jpg,Colaborative Filtering
+4,1,Doug,lRbHFOIFuusN2WOR_ypQ_A,Ants Pants Café,2212 S St,Philadelphia,PA,19146.0,4.0,u5QWmL7_r_SS2v0AX2ntYA.jpg,Colaborative Filtering
+5,2,Doug,0KEMPs7BD_WHI6zGpDcKjw,Food & Friends,1933 Spruce St,Philadelphia,PA,19103.0,4.0,UE5g0CS9MI44yurl0wfbew.jpg,Colaborative Filtering
+6,3,Doug,qRgeV1CMZawRblc2qjHo_g,El Jarocho,1138 S 13th St,Philadelphia,PA,19147.0,4.0,9IJE2z8gy4UcSUyF0p4FeA.jpg,Colaborative Filtering
+7,0,N,rdDC5Ts8NZjuGHJn4bqMAQ,Cogito Coffee,105 S 12th St,Philadelphia,PA,19107.0,4.5,Zb2Prf03hrnIOW1TyRjjSQ.jpg,Colaborative Filtering
+8,1,N,vVfy055EfLMdd0yJYHxiMQ,A La Mousse,145 N 11th St,Philadelphia,PA,19107.0,4.5,oEGO3M-d8t-RTHKFvosB7A.jpg,Colaborative Filtering
+9,2,N,vUrTGX_7HxqeoQ_6QCVz6g,Suraya,1528 Frankford Ave,Philadelphia,PA,19125.0,4.5,7_88I8QFja0vC_JrwCSoAQ.jpg,Colaborative Filtering
+10,3,N,i_FWONQD1ZBqrNE2b-M5Ug,Talula's Garden,210 W Washington Sq,Philadelphia,PA,19106.0,4.5,rZE_v7jJhPWpNY2kKDvQUA.jpg,Colaborative Filtering
+11,4,N,O17dm8a_hU8zc3gAYkAK-A,Ken Love's BYOB,701 N 3rd St,Philadelphia,PA,19123.0,4.5,B452bbk8xX6WEj0q2KVEpw.jpg,Colaborative Filtering
+12,5,N,yCUQ6csyVOR9krwQH9RIbQ,Haveli Virasat,4051 Market St,Philadelphia,PA,19104.0,4.5,v6ccpOaW5yD5T0v1MY_0dg.jpg,Colaborative Filtering
+13,6,N,8P8HIysyyGbG8_94cG1Jyg,Entree BYOB,1608 South St,Philadelphia,PA,19146.0,4.5,PQC4aocWTfCxHyyC8Gbd7w.jpg,Colaborative Filtering
+14,7,N,OAWa1WML2V1ZLJGD6V3nBQ,Middle Child,248 S 11th St,Philadelphia,PA,19107.0,4.5,V5DeaYsMc6UedBDpoKDQJQ.jpg,Colaborative Filtering
+15,0,Rory,x3zNWk1qwG_KArQe-h0CYA,Health Meals By Anna,"352 Second St Pike, Ste 290",Southampton,PA,18966.0,5.0,6xSohRmbzsA8Q_axLxyxZg.jpg,Colaborative Filtering
+16,1,Rory,1wa8RxjmRoz5k3fm-pE6vg,CAVA,"40 Coulter Ave, Ste 175",Ardmore,PA,19003.0,4.5,taV4IrzNcIyhYRDBPq_Twg.jpg,Colaborative Filtering
+17,2,Rory,aA-6urKmmlZw9STPOHZNCg,up-RYES Bagel & Deli,22 N Bryn Mawr Ave,Bryn Mawr,PA,19010.0,4.0,lKktJkp5rBeJ8CD360Fp1w.jpg,Colaborative Filtering
+18,3,Rory,zBT8l6b3wE_H541Msvg4Wg,Mama's Pizzeria,426 Belmont Ave,Bala Cynwyd,PA,19004.0,4.0,RwYUj6x6HM-pmki7eE4MQA.jpg,Colaborative Filtering
+19,4,Rory,T2NZEKXgfTIPothJrLyz2A,Bella Italia,12 E Lancaster Ave,Ardmore,PA,19003.0,3.5,h_vCTDY9BoIxnsla2vXqOA.jpg,Colaborative Filtering
+20,0,Lindsey,9YvxONmuEP-IXIFRrMCgSA,Sabor Puebla Taqueria & Cafe,1715 Mount Ephraim Ave,Camden,NJ,8104.0,5.0,wyfc5mbfedq1FGHsRszcGg.jpg,Colaborative Filtering
+21,1,Lindsey,zZQ8Hu2c8hqsJ0Xti20HAw,Freddy's Restaurant,3200 Westfield Ave,Camden,NJ,8105.0,4.5,fcd0ImgIDThAv4jxihkluw.jpg,Colaborative Filtering
+22,2,Lindsey,vhar8sfBN37RE13z9CXNEQ,Leaf,6 Kings Ct,Haddonfield,NJ,8033.0,4.5,pWO7awuKNXSM9gVqSseU7w.jpg,Colaborative Filtering
+23,3,Lindsey,NyqI81Wx_d16I357OSLQ1Q,Burger Bar,3334 Federal St,Camden,NJ,8105.0,4.5,missing.jpg,Colaborative Filtering
+24,4,Lindsey,-xY4R0jVwIDlpFx_CcZ4XA,Art's Deli,36 N Broadway,Gloucester City,NJ,8030.0,4.5,missing.jpg,Colaborative Filtering
+25,5,Lindsey,RjWDssHiZfiB8ATazk-2dw,China Cook Express,"711 Evesham Ave, Ste 15",Somerdale,NJ,8083.0,4.5,missing.jpg,Colaborative Filtering
+26,6,Lindsey,PJjkH_VZeQwxEJvlQ-v7wA,Pho 75,1122 Washington Ave,Philadelphia,PA,19147.0,4.5,2PqUGAxLa7ctWHgPXi1WRg.jpg,Colaborative Filtering
+27,7,Lindsey,LBqAH3KQEuLX5XIWLjBGnQ,Pho 9,1200 Haddonfield Rd,Cherry Hill,NJ,8002.0,4.0,OPLNGyaiEDzcVVwd1UbLXQ.jpg,Colaborative Filtering
+28,0,Rula,hYs3ioWpQr-WwV9nRD5lAg,Apple Walnut Café,2924 West Chester Pike,Broomall,PA,19008.0,4.5,8l78kb1buDSGePSA6OGfyg.jpg,Colaborative Filtering
+29,1,Rula,kRvZUnDK3Rn7a7WvGUZ6QQ,The Original Clam Tavern,339 E Broadway Ave,Clifton Heights,PA,19018.0,4.5,missing.jpg,Colaborative Filtering
+30,2,Rula,jc6PRKXaOwQeKtQGXoG76Q,The Shake Seafood,"2141 Cottman Ave, Unit D",Philadelphia,PA,19149.0,4.0,SWbnDfFLz8dmbR4BJyFrtA.jpg,Colaborative Filtering
+31,3,Rula,EjwY66v3wVP8F9ZBcJnIVQ,Mission BBQ,601 W Germantown Pike,Plymouth Meeting,PA,19462.0,4.0,M7W1lo6B1pxF697L9Lg4rg.jpg,Colaborative Filtering
+32,4,Rula,poviu-6n3iaRE4gdQz6OYw,Oyster House,1516 Sansom St,Philadelphia,PA,19102.0,4.0,izcQc4Gm72QmnJLRWMfIcQ.jpg,Colaborative Filtering
+33,5,Rula,K83AQ_2U1Fuf_TIF-fRRXg,Kung Fu Tea,13 N 32nd St,Philadelphia,PA,19104.0,4.0,a60tlBCZK1oRHBg3P8XoJw.jpg,Colaborative Filtering
+34,6,Rula,tMtI6ECD6hwM-nFp2kXLKQ,Tea Do,132 N 10th St,Philadelphia,PA,19107.0,4.0,Q21h_-xSqatd3pRt-GOLgw.jpg,Colaborative Filtering
+35,7,Rula,qoHgAxwNTiNCli9d7RQl2w,Sweet Charlie's,1921 Walnut St,Philadelphia,PA,19103.0,3.5,C-Nle-3n4CbmLmXEb6-ERA.jpg,Colaborative Filtering
+36,0,Christina,Dh65GRW4FmOEjDv_UuPP4A,Kitchen 519,200 E Evesham Rd,Glendora,NJ,8029.0,4.5,IUIAY6c1dggplCtBecCBAw.jpg,Colaborative Filtering
+37,1,Christina,hX_8ZUmIqWFWzjdiPrf23w,Termini Bros Bakery,1523 S 8th St,Philadelphia,PA,19147.0,4.5,t9Jnjkju6iIuq_95N7LwJQ.jpg,Colaborative Filtering
+38,2,Christina,sQhh7JCGpqNgf0hHWc4m8g,On Point Bistro,1200 Point Breeze Ave,Philadelphia,PA,19146.0,4.5,7PLErLx6bzdeeFNRhqSVkA.jpg,Colaborative Filtering
+39,3,Christina,QDJO9PzZ82tU4rlzzOFRSw,Benash Liquor Store,2405 Rt 38,Cherry Hill,NJ,8002.0,4.5,missing.jpg,Colaborative Filtering
+40,4,Christina,ywY6VeKUaYSZ5geR3nxU5Q,Keystone Homebrew Supply,435 Doylestown Pk,Montgomeryville,PA,18936.0,4.5,missing.jpg,Colaborative Filtering
+41,5,Christina,03jQGGJ2ch0uHTtW-UUUqg,Famous 4th Street Delicatessen,700 S 4th St,Philadelphia,PA,19147.0,4.0,elU2J48jvsV9_X1hO8X2tw.jpg,Colaborative Filtering
+42,6,Christina,S9IFCU4FKCqEriV1Rr2ZcA,Race Street Cafe,208 Race St,Philadelphia,PA,19106.0,4.0,3JAFXnUtPXRWMGSCL3LwaQ.jpg,Colaborative Filtering
+43,7,Christina,oDlF5bfcQrYkjK4D4_Nw9A,Fitzwater Cafe,728 S 7th St,Philadelphia,PA,19147.0,4.0,MRfpfyX8NysDp17Liaw22g.jpg,Colaborative Filtering
+44,0,Jamie,IWqQjclp1fxK3vuqs5nNzA,Bread Top House,1041 Race St,Philadelphia,PA,19107.0,4.5,QbArALC00n9p6xUstXG6kg.jpg,Colaborative Filtering
+45,1,Jamie,Idjv5ldTN-4Q7QseD46AOw,Mango's Cafe,200 Larchmont Blvd,Mt Laurel,NJ,8054.0,4.0,hJuufsHW60k4Q8SIlWiQPg.jpg,Colaborative Filtering
+46,2,Jamie,q-zV08jt6U-q05SMEuQJAQ,The Original Tony Lukes,39 E Oregon Ave,Philadelphia,PA,19148.0,4.0,qqPrdCAh7KU3FqK7KsR-oA.jpg,Colaborative Filtering
+47,3,Jamie,_n2TZLOgOPOQZ95sz9QsYQ,Lim Fong's Delight,33 W Hampton St,Pemberton,NJ,8068.0,4.0,aFmPIMq7VE9m7xRf8acBeQ.jpg,Colaborative Filtering
+48,4,Jamie,t7lXDRAytv_pq5FLWSxtaQ,H Mart - Cherry Hill,1720 Rt. 70 East.,Cherry Hill,NJ,8003.0,4.0,_WSwXfgx0m4zAiFMXFAXig.jpg,Colaborative Filtering
+49,5,Jamie,wb_z1h7XR5IQhVRZHlMuLQ,Redstone American Grill,500 Rte 73 S,Marlton,NJ,8053.0,4.0,EEZFDVgQfurmXWPLSqunaA.jpg,Colaborative Filtering
+50,6,Jamie,eaDZlSuVS0EY67Ke6pRP6Q,Penang,117 N 10th St,Philadelphia,PA,19107.0,3.5,hh1fp0Tw0cWs9chQEdY1Ew.jpg,Colaborative Filtering
+51,7,Jamie,vUkiYPpbkMXA99WneLSGkQ,Banana Leaf,1009 Arch St,Philadelphia,PA,19107.0,3.5,_ykVEalZUlGXm7e33326fA.jpg,Colaborative Filtering
+52,0,Michael,dMICIsutjLi0FOzgduuvug,Umi Japanese Cuisine,11 N White Horse Pike,Somerdale,NJ,8083.0,4.0,missing.jpg,Colaborative Filtering
+53,1,Michael,RuPk-ScXo4ycpdnAkpfoNg,Mr Sushi All You Can Eat,2117 Marlton Pike W,Cherry Hill,NJ,8002.0,4.0,sG30kpBOoQAN7ECzrvq48Q.jpg,Colaborative Filtering
+54,0,Abraham,XJvOamdhTQI65jmzTfreDQ,Fante's Kitchen Shop,1006 S 9th St,Philadelphia,PA,19147.0,4.5,yUcrDwAN0-jYRjNFdCopmw.jpg,Colaborative Filtering
+55,1,Abraham,OHzX-ZD9qyoeoxR8Z0dlIA,Khyber Pass Pub,56 S 2nd St,Philadelphia,PA,19106.0,4.0,OyhDtoLDD640BGlJGGIkug.jpg,Colaborative Filtering
+56,2,Abraham,cXSyVvOr9YRN9diDkaWs0Q,Honey's Sit-N-Eat,800 N 4th St,Philadelphia,PA,19123.0,4.0,XG77mRleu53Tb4kE0n2HSQ.jpg,Colaborative Filtering
+57,3,Abraham,YN4Kk751tmdvoarGo8z7_A,New Delhi Indian Restaurant,4004 Chestnut St,Philadelphia,PA,19104.0,4.0,M2o19X6I8yoO5bfVr9aJZg.jpg,Colaborative Filtering
+58,4,Abraham,6x9hcZ1CJ4S9avBgPGS7-Q,Johnny Brenda's,1201 Frankford Ave,Philadelphia,PA,19125.0,4.0,jyQ730rGElYqnVxD7wVw8Q.jpg,Colaborative Filtering
+59,5,Abraham,73UjNbSoQjQAOS45rcihFg,Cantina Dos Segundos,931 N 2nd St,Philadelphia,PA,19123.0,4.0,QmKS7GZ9OMurDd24HRvoFQ.jpg,Colaborative Filtering
+60,6,Abraham,sL6fC0P4C-gyL4E5gacUeQ,Lazaro's Pizzeria & Grill,1743 South St,Philadelphia,PA,19146.0,4.0,missing.jpg,Colaborative Filtering
+61,7,Abraham,rYqmaOIULRouz_1db07OdQ,Green Eggs Cafe,1306 Dickinson St,Philadelphia,PA,19147.0,4.0,YBs9t9c28Nh8fi_7mYB3TA.jpg,Colaborative Filtering
+62,0,Ju,_V6hl1oGkTV2KbGeax_HPA,Sang Kee Peking Duck House,238 N 9th St,Philadelphia,PA,19107.0,4.0,XjSr8WlM4kdRjGlru_D7zw.jpg,Colaborative Filtering
+63,1,Ju,NABcZKRWQF9-rDVt0P0bhw,Ocean City,234 N 9th St,Philadelphia,PA,19107.0,3.0,EDzjTbbgGxaukkxBVmoRLQ.jpg,Colaborative Filtering
+64,0,Alix,Bmoc9P_qcjuPvVzwOWIXJg,King of Pizza,3633 Germantown Ave,Philadelphia,PA,19140.0,4.5,missing.jpg,Colaborative Filtering
+65,1,Alix,ytynqOUb3hjKeJfRj5Tshw,Reading Terminal Market,51 N 12th St,Philadelphia,PA,19107.0,4.5,b8LFU1fOMy686GdFp8BXlg.jpg,Colaborative Filtering
+66,2,Alix,gihNKyt5d6lIZQem2r12Lw,Giunta's Prime Shop,1100 Filbert St,Philadelphia,PA,19107.0,4.5,missing.jpg,Colaborative Filtering
+67,3,Alix,9c7MUiE6VI8NesjPdj5FkA,Bubblefish,909 Arch St,Philadelphia,PA,19107.0,4.0,kZaGyksI-BfpPtF9xZUh2Q.jpg,Colaborative Filtering
+68,4,Alix,fUmXHW1iM5WUvdUuz1BxIQ,Bella's Breakfast & Lunch,2159 Ridge Ave,Philadelphia,PA,19121.0,4.0,missing.jpg,Colaborative Filtering
+69,5,Alix,qwmlqH4blnTNTFDhUaCBXw,Peddler's Village,64 Peddlers Village,Lahaska,PA,18931.0,4.0,missing.jpg,Colaborative Filtering
+70,6,Alix,ZTD_xSBxv07aa5fFsYwTEA,Vito's Pizza & Grill,2821 N Broad St,Philadelphia,PA,19132.0,2.5,Id8yByG6Vyd1DVSQkYV-3g.jpg,Colaborative Filtering
+71,7,Alix,Gr6nYrQ_-3p4LcE4M84lTw,Dave & Buster's,325 N Christopher Columbus Blvd,Philadelphia,PA,19106.0,2.5,qocqqZJEYgGiUBbVcAcj2Q.jpg,Colaborative Filtering

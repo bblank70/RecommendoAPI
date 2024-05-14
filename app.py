@@ -10,6 +10,9 @@ with open("./static/response.json", "r") as file:
 data = json.loads(json_data)
 results = data['result']
 r = pd.DataFrame(results)
+r = pd.read_csv("ContentRecommendations.csv")
+
+
 print(r.head())
 
 
@@ -36,5 +39,3 @@ def ReturnJSON():
     user = request.args.get('user')
     if(request.method == 'GET'): 
         return ReturnJsonResultOuterKey(r, user)
-
-    

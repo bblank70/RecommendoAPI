@@ -5,16 +5,20 @@ import json
 from flask_cors import CORS
 
 
-with open("./static/response.json", "r") as file:
-    json_data = file.read()
-data = json.loads(json_data)
-results = data['result']
-r = pd.DataFrame(results)
-r = pd.read_csv("ContentRecommendations.csv")
+# with open("./static/response.json", "r") as file:
+#     json_data = file.read()
+# data = json.loads(json_data)
+# results = data['result']
+# r = pd.DataFrame(results)
+content = pd.read_csv("./Model_content.csv")
+popular = pd.read_csv("./Model_popular.csv")
+new = pd.read_csv( "./Model_new.csv")
+colab = pd.read_csv("./Model_colab.csv")
 
-
-print(r.head())
-
+print("top of content:", content.head())
+print("top of popular:", popular.head())
+print("top of new:", new.head())
+print("top of colab:", colab.head())
 
 def ReturnJsonResultOuterKey(df, user):
     df = df[df['user'] == user]
@@ -38,4 +42,4 @@ def home():
 def ReturnJSON(): 
     user = request.args.get('user')
     if(request.method == 'GET'): 
-        return ReturnJsonResultOuterKey(r, user)
+        return ReturnJsonResultOuterKey(content, user)

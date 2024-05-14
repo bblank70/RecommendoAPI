@@ -10,10 +10,10 @@ from flask_cors import CORS
 # data = json.loads(json_data)
 # results = data['result']
 # r = pd.DataFrame(results)
-content = pd.read_csv("./static/Model_content.csv")
-popular = pd.read_csv("./static/Model_popular.csv")
-new = pd.read_csv( "./static/Model_new.csv")
-colab = pd.read_csv("./static/Model_colab.csv")
+content = pd.read_csv("Model_content.csv")
+popular = pd.read_csv("Model_popular.csv")
+new = pd.read_csv( "Model_new.csv")
+colab = pd.read_csv("Model_colab.csv")
 
 # print("top of content:", content.head())
 # print("top of popular:", popular.head())

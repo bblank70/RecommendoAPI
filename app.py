@@ -5,7 +5,7 @@ import json
 from flask_cors import CORS
 
 
-with open("response.json", "r") as file:
+with open("./static/response.json", "r") as file:
     json_data = file.read()
 data = json.loads(json_data)
 results = data['result']

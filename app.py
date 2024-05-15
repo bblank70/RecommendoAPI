@@ -10,15 +10,14 @@ from flask_cors import CORS
 # data = json.loads(json_data)
 # results = data['result']
 # r = pd.DataFrame(results)
-content = pd.read_csv("Model_Content.csv")
-popular = pd.read_csv("Model_popular.csv")
-new = pd.read_csv( "Model_New.csv")
-colab = pd.read_csv("Model_Colab.csv")
+# content = pd.read_csv("./static/Model_Content.csv")
+# colab = pd.read_csv("./static/Model_Colab.csv")
 
-# print("top of content:", content.head())
-# print("top of popular:", popular.head())
-# print("top of new:", new.head())
-# print("top of colab:", colab.head())
+popular = pd.read_csv("./static/Model_popular.csv")
+new = pd.read_csv( "./static/Model_New.csv")
+CC = pd.read_csv("./static/Model_CCrecs.csv")
+
+stashedusers = list(set(CC.user.tolist()))
 
 def ReturnJsonResultOuterKey(df, user):
     df = df[df['user'] == user]
@@ -41,6 +40,24 @@ def home():
 @app.route('/returnjson', methods = ['GET']) 
 def ReturnJSON(): 
     user = request.args.get('user')
+    if user not in stashedusers:
+        print("This user is not in the data!, return popular recs")
+        r = popular.sample(8)
+        r['user'] = user
+    else:
+        r = CC[CC.user == user]
+        model = list(set(r.Model))[0]
+        print("This user is using:", model)
+        if r.shape[0] < 8:
+            print("This user needs more recommendations!")
+            extrarecs = new.sample(8-r.shape[0])
+            extrarecs['user'] = user
+            print(extrarecs) #fill in extra recs from the new content
+            r = pd.concat([r, extrarecs], axis=0)
+            print(r)
+        else:
+            print("This user had too many reccomendations!")
+            r =  r.sample(8)
     print(user)
     if(request.method == 'GET'): 
-        return ReturnJsonResultOuterKey(content, user)
+        return ReturnJsonResultOuterKey(r, user)
